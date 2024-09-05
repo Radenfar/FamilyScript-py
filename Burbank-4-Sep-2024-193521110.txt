@@ -1,0 +1,178 @@
+# Burbank
+#
+# FamilyScript downloaded by Adam on 4 Sep 2024.
+#
+# This file should be viewed as Unicode (UTF-8) character encoding.
+#
+# Created by Family Echo - https://www.familyecho.com/
+#
+iSTART	pBill	lBurbank	qBurbank	gm	z1
+iEX5LT	^START	pNancy	lLandgraab	qLandgraab	gf	sOBIP0	mP83AN	fNQT4V	z1
+iOBIP0	^EX5LT	sEX5LT	lLandgraab	pGeoffrey	qOsteer	gm	z1
+iI10YT	^OBIP0	mEX5LT	fOBIP0	lLandgraab	qLandgraab	pMalcolm	gm	z1
+iJ7WFI	^I10YT	mEX5LT	fOBIP0	lLandgraab	qLandgraab	pIrene	gf	z1
+iS63YW	^J7WFI	mEX5LT	fOBIP0	lLandgraab	qLandgraab	pFabian	gm	z1
+iC7RK7	^START	mEX5LT	fSTART	pAmara	gf	lLandgraab	qLandgraab	z1
+iNQT4V	^EX5LT	gm	lLandgraab	sP83AN	pChester	z1	mELNND	fZHDIT
+iP83AN	^EX5LT	gf	sNQT4V	lLandgraab	pQueenie	qLandgraab	z1
+iZHDIT	^NQT4V	gm	sELNND	pKermit	lLandgraab	qLandgraab	z1
+iELNND	^NQT4V	gf	sZHDIT	pKitty	lLandgraab	qLandgraab	z1
+iVQZH5	^START	pSummer	lHoliday	qHoliday	gf	z1
+iBL0FA	^VQZH5	mVQZH5	fSTART	pBridgette	lHoliday	qHoliday	gf	z1
+iHSP87	^START	pLiberty	lLee	qLee	gf	z1
+iXUPXY	^HSP87	mHSP87	fSTART	pJocelyn	lLee	qLee	gf	z1
+iVXO9J	^START	pEliza	lPancakes	qHastings	gf	sMT37Q	z1
+iQ9JGO	^VXO9J	mVXO9J	fSTART	pPat	lPancakes	qPancakes	gm	z1
+iMT37Q	^VXO9J	sVXO9J	lPancakes	pBob	qPancakes	gm
+iWUFW4	^START	pKatrina	lCaliente	qCaliente	gf	z1
+iK1IQR	^WUFW4	mWUFW4	fSTART	pRicardo	lCaliente	qCaliente	gm	z1
+iJ6CQ5	^WUFW4	mWUFW4	lCaliente	qCaliente	pDina	gf	z1
+iDJRHF	^J6CQ5	mWUFW4	lCaliente	qCaliente	pNina	gf	z1
+iHL65D	^J6CQ5	mJ6CQ5	lCaliente	qCaliente	pDestiny	gf	fSTART	z1
+iHQUGM	^START	pJo	lEast	qEast	gf	z1
+iN8ES6	^HQUGM	mHQUGM	fSTART	pAlijah	lEast	qEast	gm	z1
+iAVFBZ	^START	pCarmen	lCody	qCody	gf	z1
+iRN7LC	^AVFBZ	mAVFBZ	fSTART	pAmir	lCody	qCody	gm	z1
+iTQ6KE	^RN7LC	mAVFBZ	fSTART	lCody	qCody	pAntwan	gm
+iJ3Z4V	^START	pCamilla	lStahl	qStahl	gf	z1
+iVD0XO	^J3Z4V	mJ3Z4V	fSTART	pJaime	lStahl	qStahl	gf	z1
+iTOLT0	^START	pAlice	lSpencer-Kim	qKim	gf	sYNZRG	mTTRV8	fDT9W7	z1
+iXFT3Y	^TOLT0	mTOLT0	fSTART	pHaeju	lSpencer-Kim	qSpencer-Kim	gf	z1
+iYNZRG	^TOLT0	sTOLT0	lLewis	pEric	qLewis	gm	mI6UPJ	fPCSJL	z1
+iI6UPJ	^YNZRG	gf	lLewis	pVivian	qLewis	z1
+iPSI6K	^YNZRG	mI6UPJ	lLewis	qLewis	pBobby	gm	z1
+iFBL1J	^YNZRG	mTOLT0	fYNZRG	lKim-Lewis	qKim-Lewis	pOlivia	gf	z1
+iXWMB5	^START	pMarlene	lWeir	qWeir	gf	z1
+iZEQIP	^XWMB5	mXWMB5	fSTART	pXimena	lWeir	qWeir	gf	z1
+iI8QO0	^ZEQIP	mXWMB5	fSTART	lWeir	qWeir	pAli	gf	z1
+iBAIU4	^START	pBella	lGoth	qBachelor	gf	sKPV6O	mZ1DIV	fCDKTE	z1
+iEN3EE	^BAIU4	mBAIU4	fSTART	pJillian	lGoth	qGoth	gf	z1
+iKPV6O	^BAIU4	sBAIU4	lGoth	pMortimer	qGoth	gm	mJO2BK	fMTD9Y	z1
+iCDKTE	^BAIU4	gm	lBachelor	sZ1DIV	pSimis	z1
+iZ1DIV	^BAIU4	gf	sCDKTE	lBachelor	pJocasta	qBachelor	z1
+iMTD9Y	^KPV6O	gm	lGoth	sJO2BK	pGunther	qGoth	z1	mJHIND	fI4JNZ
+iJO2BK	^KPV6O	gf	sMTD9Y	lGoth	pCornelia	qCrumplebottom	z1	mPWFCT	fY4XOT
+iI4JNZ	^MTD9Y	gm	lGoth	sJHIND	pVictor	qGoth	z1
+iJHIND	^MTD9Y	gf	sI4JNZ	lGoth	pGretle	qGoth	z1
+iAP02X	^MTD9Y	mJHIND	fI4JNZ	lGoth	qGoth	pFrida	gf	z1
+iY4XOT	^JO2BK	gm	lCrumplebottom	sPWFCT	pSimon	qCrumplebottom	z1
+iPWFCT	^JO2BK	gf	sY4XOT	lCrumplebottom	pPrudence	z1	qCrumplebottom
+iKCQXN	^JO2BK	mPWFCT	fY4XOT	lCrumplebottom	qCrumplebottom	pAgnes	gf	z1
+iPM0K4	^KPV6O	mBAIU4	fKPV6O	lGoth	qGoth	pAlexander	gm	z1
+iQZNQH	^PM0K4	mBAIU4	fKPV6O	lGoth	qGoth	pCassandra	gf	z1
+iC8LUF	^QZNQH	mBAIU4	fKPV6O	lGoth	qGoth	pDrake	gm
+iXQ0DY	^DJRHF	mDJRHF	lCaliente	qCaliente	pCristina	gf	fSTART	z1
+iT3C20	^START	pPatrice	lFountain	qFountain	gf	z1
+iVKQO3	^T3C20	mT3C20	fSTART	pAthena	lFountain	qFountain	gf
+iH3H18	^START	pZoe	lPatel	qPatel	gf	z1
+iSZMXD	^START	mH3H18	fSTART	pMinkz	lPatel	qPatel	gm
+iY1YY9	^QZNQH	mQZNQH	lGoth	qGoth	pAlijah	gm	fSTART
+iK4V78	^START	mT3C20	fSTART	pGeorge	lFountain	qFountain	gm
+iCLVWK	^START	pAlex	lMoyer	qMoyer	gf
+iA9X1W	^CLVWK	mCLVWK	fSTART	pDorothy	lMoyer	qMoyer	gf
+iS996H	^START	pNadine	lSavalani	qSavalani	gf	z1
+iEQ2ZA	^START	mS996H	fSTART	pIsrael	lSavalani	qSavalani	gm	z1
+iH74BU	^BL0FA	mVQZH5	fSTART	lHoliday	qHoliday	pEllis	gm
+iDT9W7	^TOLT0	gm	lKim	pDennis	qKim	z1
+iUAAEC	^MT37Q	mVXO9J	fMT37Q	lPancakes	qPancakes	pKarina	gf
+iIXPPO	^Q9JGO	fQ9JGO	lPancakes	qPancakes	pKevin	gm
+iSUZ0J	^K1IQR	fK1IQR	lCaliente	qCaliente	pShannon	gm
+iKTHAT	^KPV6O	mBAIU4	fKPV6O	lGoth	qGoth	pRoyce	gm
+iR0LTM	^BAIU4	mBAIU4	Va	lGoth	qGoth	pTomas	gm
+iHD3XR	^FBL1J	mFBL1J	lKim-Lewis	qKim-Lewis	pEileen	gf	fSTART
+iFOUSE	^S63YW	fS63YW	lLandgraab	qLandgraab	pKayson	gm
+iRY0SF	^J7WFI	mEX5LT	fOBIP0	lLandgraab	qLandgraab	pTabitha	gf
+iRMV9K	^START	pJanie	lHester	qHester	gf	mNLU4B	fDC76U	z1
+iDC76U	^RMV9K	gm	lHester	pAntonio	qHester	z1
+iNOTKA	^RMV9K	mRMV9K	fSTART	pGuy	lHester	qHester	gm
+iWMIMO	^YNZRG	mTOLT0	fYNZRG	lSpencer-Kim	qSpencer-Kim	pArturo	gm
+iJS8YU	^J6CQ5	mWUFW4	lCaliente	qCaliente	pNick	gm
+iQ9YBV	^UAAEC	mVXO9J	fMT37Q	lPancakes	qPancakes	pNasir	gm
+iLFGBW	^VQZH5	mVQZH5	lHoliday	qHoliday	pKasen	gm
+iGGL26	^VXO9J	mVXO9J	fMT37Q	lPancakes	qPancakes	pTerrence	gm
+iV6U5B	^IXPPO	fQ9JGO	lPancakes	qPancakes	pKarson	gm
+iZ8A2M	^YNZRG	mTOLT0	fYNZRG	lSpencer-Kim	qSpencer-Kim	pJocelyn	gf
+iCFKLB	^FOUSE	fS63YW	lLandgraab	qLandgraab	pCara	gf
+iDLJ8N	^K4V78	pDelilah	lBarnes	qBarnes	gf
+iB4ETQ	^DLJ8N	mDLJ8N	fK4V78	pLizbeth	lBarnes	qBarnes	gf
+iZRPUO	^B4ETQ	mDLJ8N	fK4V78	lBarnes	qBarnes	pTyler	gf
+iRY8NJ	^ZRPUO	mDLJ8N	fK4V78	lBarnes	qBarnes	pKylie	gf
+iWIQPV	^K4V78	pElisa	lMintzias	gf	qMintzias	mOJVRC	fT63DH	z1
+iD1PDF	^WIQPV	mWIQPV	fK4V78	pFelix	lMintzias	qMintzias	gm
+iT63DH	^WIQPV	gm	lMintzias	sOJVRC	pMessiah	qMintzias	z1
+iOJVRC	^WIQPV	gf	sT63DH	lMintzias	pTanisha	qMintzias	z1
+iFAW3P	^WIQPV	mOJVRC	fT63DH	lMintzias	qMintzias	pJayceon	gm	z1
+iOKGWC	^K4V78	mVXO9J	fK4V78	pSheila	lPancakes	qPancakes	gf
+iJM73P	^J7WFI	mJ7WFI	fK4V78	pGiancarlo	lLandgraab	qLandgraab	gm
+iZ5O0E	^K4V78	mFBL1J	fK4V78	pBill	lKim-Lewis	qKim-Lewis	gm
+iMPSOP	^K4V78	pCarissa	lBarton	qBarton	gf
+iVJBEW	^MPSOP	mMPSOP	fK4V78	pJazlyn	lBarton	qBarton	gf
+iGRN3T	^RMV9K	mRMV9K	fK4V78	pJessie	lHester	qHester	gm
+iDE7SZ	^K4V78	pPhoebe	lDunham	qDunham	gf	z1
+iBEUF2	^K4V78	mDE7SZ	fK4V78	pAshlie	lDunham	qDunham	gf
+iOBVZ6	^CLVWK	mCLVWK	fK4V78	pLexie	lMoyer	qMoyer	gf
+iR956S	^OBVZ6	mCLVWK	fK4V78	lMoyer	qMoyer	pLynn	gf
+iDXUR2	^K4V78	pJanelle	lHorton	qHorton	gf
+iINSIZ	^K4V78	mDXUR2	fK4V78	pJourney	lHorton	qHorton	gf
+iMMPZO	^RY0SF	mRY0SF	fK4V78	pJewel	lLandgraab	qLandgraab	gf
+iN6WH9	^K4V78	pCarrie	lTamayo	qTamayo	gf
+iBJ9UV	^N6WH9	mN6WH9	fK4V78	pArt	lTamayo	qTamayo	gm
+iH49XP	^LFGBW	fLFGBW	lHoliday	qHoliday	pKhalil	gm
+iZ98QM	^UAAEC	mUAAEC	fK4V78	pTevin	lPancakes	qPancakes	gm
+iA1RJK	^K4V78	pAvery	lBarger	qBarger	gf
+iGOXHX	^K4V78	mA1RJK	fK4V78	pMila	lBarger	qBarger	gf
+iP1MXW	^K4V78	pSarai	lDickson	qDickson	gf
+iHTYYD	^K4V78	mP1MXW	fK4V78	pEdison	lDickson	qDickson	gm
+iZZ9XX	^H74BU	fH74BU	lHoliday	qHoliday	pAnnie	gf
+iVNT5N	^Y1YY9	fY1YY9	lGoth	qGoth	pJessica	gf
+iNJR7V	^H49XP	fLFGBW	lHoliday	qHoliday	pRico	gm
+iACMY3	^SZMXD	fSZMXD	lPatel	qPatel	pGuy	gm
+iY7PBE	^XQ0DY	mXQ0DY	lCaliente	qCaliente	pAlec	gm
+iWIKXG	^A9X1W	mA9X1W	lMoyer	qMoyer	pKobe	gm
+iJ7MKV	^PM0K4	fPM0K4	lGoth	qGoth	pLawson	gm
+iMABS0	^C8LUF	fC8LUF	lGoth	qGoth	pBrenden	gm
+iI3IHB	^Z8A2M	mZ8A2M	lSpencer-Kim	qSpencer-Kim	pFloyd	gm	fK4V78
+iUBB7J	^K4V78	pParker	lCramer	qCramer	gf
+iUPZ71	^K4V78	mUBB7J	fK4V78	pBryan	lCramer	qCramer	gm
+iDDE6B	^SUZ0J	fSUZ0J	lCaliente	qCaliente	pIssac	gm
+iR3ZY1	^K4V78	pSummer	lRobles	qRobles	gf
+iWGHA5	^K4V78	mR3ZY1	fK4V78	pBryce	lRobles	qRobles	gm
+iIWV9H	^K4V78	pRachael	lRollins	qRollins	gf
+iOBIT3	^K4V78	mIWV9H	fK4V78	pKiera	lRollins	qRollins	gf
+iJV7MD	^OBVZ6	mOBVZ6	lMoyer	qMoyer	pColton	gm
+iX378W	^NOTKA	fNOTKA	lHester	qHester	pHarley	gf
+iP0LBC	^UAAEC	mUAAEC	lPancakes	qPancakes	pBlair	gm
+pSTART VQZH5	e1
+pSTART VXO9J	e1
+pSTART WUFW4	e1
+pSTART TOLT0	e1
+pSTART XWMB5	e1
+pSTART T3C20	e1
+pEX5LT START	e1
+pJ7WFI K4V78	e1
+pHSP87 START	e1
+pHQUGM START	e1
+pAVFBZ START	e1
+pJ3Z4V START	e1
+pFBL1J K4V78	e1
+pBAIU4 START	e1
+pH3H18 START	e1
+pK4V78 WIQPV	e1
+pK4V78 VXO9J	e1
+pK4V78 MPSOP	e1
+pK4V78 RMV9K	e1
+pK4V78 RY0SF	e1
+pK4V78 N6WH9	e1
+pK4V78 UAAEC	e1
+pK4V78 P1MXW	e1
+pK4V78 UBB7J	e1
+pK4V78 R3ZY1	e1
+pCLVWK START	e1
+pCLVWK K4V78	e1
+pS996H START	e1
+pRMV9K START	e1
+pDLJ8N K4V78	e1
+pDE7SZ K4V78	e1
+pDXUR2 K4V78	e1
+pA1RJK K4V78	e1
+pIWV9H K4V78	e1

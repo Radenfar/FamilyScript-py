@@ -1,0 +1,12 @@
+# Test_File_Parse
+#
+# FamilyScript downloaded by Adam on 4 Sep 2024.
+#
+# This file should be viewed as Unicode (UTF-8) character encoding.
+#
+# Created by Family Echo - https://www.familyecho.com/
+#
+iSTART	pMain	lPerson	qPerson	gm	z1	bB00230303-B00310506	d00011010~	sJJD0I
+iJJD0I	^START	sSTART	lPerson	gf	pOther	qNotPerson	z1	bB00170817>	dB00011201<
+iGXYHH	^START	mJJD0I	fSTART	lPerson	qPerson	pChild	goAlien	z1	b00011107	d00820515~
+iTVMVS	^GXYHH	mJJD0I	fSTART	lPerson	qPerson	pSibling	gm	z1	b00021004-00060206	d00880315<
