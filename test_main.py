@@ -10,6 +10,6 @@ if __name__ == "__main__":
           - 7 Nov 1
           - Approx 15 May 82
           - 4 Oct 2 ~ 6 Feb 6
-          - After 15 Mar 88
+          - 15 Mar 88
     """)
     test_fsdate()

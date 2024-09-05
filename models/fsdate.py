@@ -80,10 +80,6 @@ class FSDate:
 
 
     def __str__(self) -> str:
-        '''
-        Datetimes should be printed like "10 Oct 1" or "1 Dec 1"
-        The strftime format string for this is "%-d %b %Y"
-        '''
         if self.approximate:
             return f"Approx {self.custom_strf(self.primary_date)}"
         if self.before:
