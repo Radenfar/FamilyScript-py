@@ -15,6 +15,9 @@ class FSDate:
         self.before: bool = False
         self.after: bool = False
         self.__parse_date(date)
+        self.familyscript: str = None
+        if self.primary_date:
+            self.familyscript = date
 
 
     @property
@@ -77,7 +80,26 @@ class FSDate:
         if day.startswith("0"):
             _date = _date[1:]
         return f"{_date} {"BCE" if self.bce else ""}"
+    
 
+    def to_familyscript(self) -> str:
+        '''Deconverts the date back to FamilyScript format'''
+        current_date: str = f"{self.primary_date.strftime('%Y%m%d')}"
+        if self.bce:
+            if self.secondary_date:
+                return f"B{self.secondary_date.strftime('%Y%m%d')}-B{self.primary_date.strftime('%Y%m%d')}"
+            else:
+                current_date = f"B{current_date}"
+        if self.approximate:
+            current_date = f"{current_date}~"
+        if self.before:
+            current_date = f"{current_date}>"
+        if self.after:
+            current_date = f"{current_date}<"
+        if self.secondary_date:
+            return f"{current_date}-{self.secondary_date.strftime('%Y%m%d')}"
+        return current_date
+    
 
     def __str__(self) -> str:
         if self.approximate:

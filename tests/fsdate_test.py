@@ -13,6 +13,11 @@ def test_fsdate():
         "00021004-00060206",
         "00880315"
     ]
+    after = None
     for case in cases:
+        print(f"CASE: {case}")
         fsdate = FSDate(case)
-        print(fsdate)
+        print(f"OUTPUT: {fsdate}")
+        after = fsdate.to_familyscript()
+        print(f"OUTPUT: {after}")
+        print(f"SUCCESS: {case == after}")
