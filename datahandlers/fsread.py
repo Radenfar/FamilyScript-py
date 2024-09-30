@@ -128,7 +128,7 @@ class FSReader:
             elif info.startswith('o'): # bio notes
                 new_individual.bio_notes = detail
             else:
-                print(f"Unknown tag: {info}")
+                print(f"[Individual] Unknown tag: {info}")
         return new_individual
 
 
@@ -138,5 +138,31 @@ class FSReader:
         - The partnership information is in the lines following lines[i] until the next individual or partnership.
         '''
         split_line = line.split()
-        print(split_line)
-        return "partnership"
+        primary_id = split_line.pop(0)[1:]
+        secondary_id = split_line.pop(0)
+        current_partnership: Partnership = Partnership(primary_id, secondary_id)
+        for info in split_line:
+            detail = info[1:]
+            if info.startswith('e'): # partnership type
+                current_partnership.current = detail
+            elif info.startswith('g'): # Type of (ex-)partnership
+                current_partnership.partnership_type = detail
+            elif info.startswith('b'): # Start date
+                current_partnership.start_date = detail
+            elif info.startswith('r'): # Engagement date
+                current_partnership.engagement_date = detail
+            elif info.startswith('m'): # Marriage date
+                current_partnership.marriage_date = detail
+            elif info.startswith('w'): # Marriage location
+                current_partnership.marriage_location = detail
+            elif info.startswith('s'): # Separation date
+                current_partnership.separation_date = detail
+            elif info.startswith('d'): # Divorce date
+                current_partnership.divorce_date = detail
+            elif info.startswith('a'): # Annulment date
+                current_partnership.annulment_date = detail
+            elif info.startswith('z'): # End date
+                current_partnership.end_date = detail
+            else:
+                print(f"[Partnership] Unknown tag: {info}")
+        return current_partnership

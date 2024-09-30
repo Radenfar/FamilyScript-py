@@ -2,7 +2,7 @@ from models.fsdate import FSDate
 
 
 class Partnership:
-    def __init__(self, primary_id: str, secondary_id: str, partnership_type: str = "2", start_date: str | None = None, engagement_date: str | None = None, marriage_date: str | None = None, marriage_location: str | None = None, separation_date: str | None = None, divorce_date: str | None = None, annulment_date: str | None = None, end_date: str | None = None):
+    def __init__(self, primary_id: str, secondary_id: str, current: str = "2", partnership_type: str | None = None, start_date: str | None = None, engagement_date: str | None = None, marriage_date: str | None = None, marriage_location: str | None = None, separation_date: str | None = None, divorce_date: str | None = None, annulment_date: str | None = None, end_date: str | None = None):
         '''
         Represents a partnership between two individuals.
         Partnership Basics:
@@ -39,8 +39,7 @@ class Partnership:
         self.divorce_date: FSDate | None = self.__parse_date(divorce_date)
         self.annulment_date: FSDate | None = self.__parse_date(annulment_date)
         self.end_date: FSDate | None = self.__parse_date(end_date)
-        self.current: bool = True if partnership_type == '2' else False
-        self.ex_partners: bool = True if partnership_type == '1' else False
+        self.current: bool = True if current == "2" else False
 
 
     def __parse_date(self, date: str | None) -> FSDate | None:
@@ -48,6 +47,9 @@ class Partnership:
             return FSDate(date)
         except Exception as e:
             return None
+        
+    def __str__(self) -> str:
+        return f"<Partnership: {self.partners[0]} and {self.partners[1]}>"
 
 
 
