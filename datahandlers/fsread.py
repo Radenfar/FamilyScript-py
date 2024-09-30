@@ -1,4 +1,3 @@
-from models.fsdate import FSDate
 from models.individual import Individual
 from models.partnership import Partnership
 
@@ -15,7 +14,7 @@ class FSReader:
     
 
     def __read_file(self) -> None:
-        with open(self.path, 'r') as file:
+        with open(self.path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
         for i, line in enumerate(lines):
             if line.startswith('#'):
@@ -31,12 +30,12 @@ class FSReader:
         '''
         - Read individual information from lines[i] and return an Individual object.
         '''
-        split_line = line.split()
+        split_line = line.split('	')
         # ID is absolutely required, so we extract it first
         id = split_line.pop(0)[1:]
         new_individual = Individual(id, ["given_names_placeholder"])
         for info in split_line:
-            detail = info[1:]
+            detail = info[1:].strip()
             if info.startswith('^'): # pointer
                 new_individual.pointer = detail
             elif info.startswith('p'): # given names
@@ -137,12 +136,12 @@ class FSReader:
         - Read partnership information from lines[i] and return a Partnership object.
         - The partnership information is in the lines following lines[i] until the next individual or partnership.
         '''
-        split_line = line.split()
+        split_line = line.split('	')
         primary_id = split_line.pop(0)[1:]
         secondary_id = split_line.pop(0)
         current_partnership: Partnership = Partnership(primary_id, secondary_id)
         for info in split_line:
-            detail = info[1:]
+            detail = info[1:].strip()
             if info.startswith('e'): # partnership type
                 current_partnership.current = detail
             elif info.startswith('g'): # Type of (ex-)partnership
@@ -166,3 +165,6 @@ class FSReader:
             else:
                 print(f"[Partnership] Unknown tag: {info}")
         return current_partnership
+    
+    def get(self) -> tuple[list[Individual], list[Partnership]]:
+        return self.individuals, self.partnerships

@@ -112,7 +112,10 @@ class Individual:
         if self.suffix:
             name_str += f" {self.suffix}"
         return name_str
-
+    
+    def get_all_parental_ids(self) -> list[str]:
+        attr_list = [self.mother_id, self.father_id, self.mother_second_id, self.father_second_id, self.mother_third_id, self.father_third_id]
+        return [attr for attr in attr_list if attr]
 
     def __parse_date(self, date: str | None) -> FSDate | None:
         try:

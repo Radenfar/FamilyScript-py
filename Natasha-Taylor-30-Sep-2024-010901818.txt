@@ -1,0 +1,991 @@
+# Natasha Taylor
+#
+# FamilyScript downloaded by Adam on 30 Sep 2024.
+#
+# This file should be viewed as Unicode (UTF-8) character encoding.
+#
+# Created by Family Echo - https://www.familyecho.com/
+#
+iHE6LN	pNatasha	qTaylor	gf	mIWX9Q	fS7YGN
+iS7YGN	pAshley M	qTaylor	gm	mXS0MV	fN675T	sIWX9Q
+iIWX9Q	sS7YGN	pLorraine J	qGay	gf
+iN675T	pMichael George	qTaylor	gm	b19340409	vCheltenham, Gloucestershire, England	aBristol, Bristol, England	z1	d20150511	mPV7R6	fLPOK3	sXS0MV
+iXS0MV	sN675T	pElaine Patricia	qWilliams	gf	b19400102	vKingswood, Gloucestershire	z1	d20200000	mFL95K	fIG49M
+iLPOK3	pCharles W	qTaylor	gm	b19020217	aGloucestershire, England	sPV7R6
+iPV7R6	sLPOK3	pNellie	qClaridge	gf	b19010721
+iIG49M	pArthur William	qWilliams	gm	vLongwell Green, Gloucestershire, England	z1	d19430313	yEgypt 	sFL95K
+iFL95K	sIG49M	pFreda May	qComley	gf	b19141206	vKeynsham, Somerset, England	z1	d19930400	yBristol, Avon, England	mTJ1RV	fLOHNJ
+iLOHNJ	pEdwin James	qComley	gm	b18771008	vBitton, Gloucestershire, England	aOldland, Gloucester, England	z1	d19570300	ySodbury, Gloucestershire, England	mWM334	fJ7B1H	sTJ1RV
+iTJ1RV	sLOHNJ	pEmily	qPayne	gf	b18740000	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	d19360700	yBristol, Gloucestershire, England	F19360912	USt. Mary-Redcliffe, Bristol, Gloucester, England	mRCQIE	fTQR2S
+iJ7B1H	pHenry	qBrewer	gm	vBitton, Gloucestershire, England	z1	d19440324	yOldland	sWM334
+iWM334	sJ7B1H	pElizabeth  Ann	qComley	gf	vBitton, Gloucestershire, England	z1	d19171200	yParkwall, Longwell Green, Gloucestershire, England
+iSEATE	pMary Jane	qComley	gf	b18741004	vBitton, Gloucestershire, England	mWM334	fJ7B1H
+iJ1PMW	pHenry	qBrewer	gm	b18800903	vBitton, Gloucestershire, England	z1	d19520900	yBristol, Gloucestershire, England	mWM334	fJ7B1H
+iS2A6F	pAlice	qBrewer	gf	b18930201	vOldland, Gloucestershire, England	z1	d19120900	yParkwall, Longwell Green, Gloucestershire, England	mWM334	fJ7B1H
+iHXOBE	pHarriet	qBrewer	gf	b18941024	vOldland, Gloucestershire, England	mWM334	fJ7B1H
+iAPBCH	pAmelia	qBrewer	gf	b18990603	vOldland Common, Gloucestershire, England	z1	d19240111	yOldland, Gloucestershire, England	mWM334	fJ7B1H
+iG7TC0	pWilliam	qBrewer	gm	b18820109	vBitton, Gloucestershire, England	mWM334	fJ7B1H
+iK24OM	pJohn	qBrewer	gm	b18860000~	vBitton, Gloucestershire, England	z1	yBristol, Gloucestershire	mWM334	fJ7B1H
+iZ1DND	pElizabeth Ann	qBrewer	gf	b18880000~	vBitton, Gloucestershire, England	z1	yKeynsham, Somerset	mWM334	fJ7B1H
+iTD50A	pEllen	qBrewer	gf	b18891015	vBitton, Gloucestershire, England	mWM334	fJ7B1H
+iAAXQC	pFlorence	qBrewer	gf	b18980000~	vOldland, Gloucestershire, England	z1	d19770600	yBristol, Avon, England	mWM334	fJ7B1H
+iTQR2S	pJoseph	qPayne	gm	b18320000	vMarksbury, Somerset, England	aMarksbury, Somerset, England	z1	yKeynsham, Somerset	mEHY8G	fBMQGR	sRCQIE
+iRCQIE	sTQR2S	pSarah	qMay	gf	b18350000	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	d18930700	yKeynsham, Somerset, England	mDZV0P	fPI9GP
+iEW7BB	pFarnham	qPayne	gm	b18550000	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	d18621000	yKeynsham, Somerset, England, United Kingdom	mRCQIE	fTQR2S
+iGA2NO	pFrank George 'Francis'	qPayne	gm	b18530000	vKeynsham, Somerset, England	aKeynsham, Somerset, England	mRCQIE	fTQR2S	sT4QV7
+iT4QV7	sGA2NO	pEsther	qDewick	gf	b18600000~	vDerby, Derbyshire, England	z1	d18980315	yBristol, England Bedminster somerset	mW4UI4	fSC23F
+iXDS14	pGeorge	qMartin	gm	b18610000	vOldland, Gloucestershire, England	aSt Anne, Oldland, Gloucestershire, England	z1	d19080000	yOldland, Gloucestershire, England	F19080118	UOldland, Gloucester, England	mOIPJX	fKNKKS
+iN35FJ	pWinifred Rose	qMartin	gf	b19071210	vOldland, Gloucestershire	aOldland, Somerset, England	z1	d19710521	yBath, Somerset, England	ULansdown, Bath and North East Somerset Unitary Authority, Somerset, England	mTJ1RV	fXDS14	sO3LYB
+iO3LYB	sN35FJ	pHerbert H	qTaplin	gm
+iY7ZPZ	pGladys Annie	qMartin	gf	b19050904	vOldland, Gloucestershire, England	aOldland, Somerset, England	z1	d19940804	y11 Lower Camden Place, Bath, Somerset, England	mTJ1RV	fXDS14
+iGE2ZN	pElsie May Colston	qMartin	gf	vLongwell Green, Gloucestershire, England	aOldland, Gloucestershire, England	mTJ1RV	fXDS14	sB575B
+iB575B	sGE2ZN	pCharles T	qJenkins	gm	b18890000~	vGloucester, Gloucestershire, England	aSt John the Baptist, Gloucestershire, England	z1	d19320400	yBristol, Gloucestershire, England	mX31CX	fU41KR
+iX5A47	pRobert Frederick Thomas	qMartin	gm	vKeynsham, Somerset, England	aOldland, Gloucestershire, England	z1	d19740519	yMelbourne, Victoria, Australia	mTJ1RV	fXDS14	sCUKHZ
+iCUKHZ	sX5A47	pElizabeth Ruby	qSargent	gf	b19210803	vBallarat, Victoria, Australia	z1	d20071222	yMelbourne, Victoria, Australia	mOZXUJ	fEHJJH
+iAD83Q	pGrace Annie	qMartin	gf	b18960000~	vOldland, Gloucestershire, England	aOldland, Gloucestershire, England	z1	d19740700	yBristol, Gloucestershire, England	mTJ1RV	fXDS14	sCW456
+iCW456	sAD83Q	pPercy Philipson	qRaine	gm	b18940710	vDurham, Yorkshire - North Riding, United Kingdom	aGloucestershire, England	z1	d19631200	yWells, Somerset, England
+iJZU4R	pFrank Colton	qMartin	gm	b19000924	vOldland, Gloucestershire, England	aOldland, Gloucestershire, England	z1	d19460700	yBristol, Gloucestershire, England	mTJ1RV	fXDS14
+iKNKKS	pThomas George	qMartin	gm	b18190000	vBitton, Gloucestershire, England	aBitton, Gloucestershire, England	mKY4GW	fBC0SM	sOIPJX
+iOIPJX	sKNKKS	pLavinia Jane	qKrinks	lMartin	gf	b18260000~	vThe Parish of St Phillip and St Joseph, Bristol, Gloucestershire, England	aBitton, Gloucestershire, England	z1	d18990000~	yBristol, Gloucestershire, England	mN2YGH	fFIUSS
+iES27H	pThomas E	qMartin	gm	b18530000	vBitton, Gloucestershire, England	aBitton, Gloucestershire, England	mOIPJX	fKNKKS
+iD4DFY	pAngelina Helen	qMartin	gf	b18550000	vOldland, Gloucestershire, England	z1	d19390000	yKingswood, Gloucestershire, England	F19391206	UOldland, Gloucester, England	mOIPJX	fKNKKS
+iAG29A	pAnnie Eliza	qMartin	gf	b18600000~	vBitton; Bristol, England..	aOldland, Bitton, Somerset, England	mOIPJX	fKNKKS
+iGMZ3G	pRobert Engel	qMartin	gm	b18640000	vBitton; Bristol, England.	z1	d19370000	yThornbury, Gloucestershire, England	mOIPJX	fKNKKS
+iFIUSS	pWilliam	qKrinks	gm	b18010000~	vBristol, Gloucestershire, England.	z1	d18831000	yBarton Regis, Gloucestershire, England..	mJV8WW	fIJJC5	sN2YGH
+iN2YGH	sFIUSS	pElizabeth	qJones	gf	b17980000	z1	d18500000	yBristol, Gloucestershire, England
+iBC0SM	pThomas	qMartin	gm	b17820000	vGloucestershire, England	z1	d18420000~	yBristol , St James Gloucestershire England	sKY4GW
+iKY4GW	sBC0SM	pSophia	qPeacock	gf	b17840000~	vBitton, Gloucestershire, England	z1	d18251000	yBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iBMQGR	pGeorge	qPayne	gm	b18000000	vMarksbury, Somerset, England	aMarksbury, Somerset, England	z1	d00130000	yWells, Somerset, United Kingdom	UMarksbury, Bath and North East Somerset Unitary Authority, Somerset, England	mQTDJI	fQKDA2	sEHY8G
+iEHY8G	sBMQGR	pMary Ann	qCarter	gf	b18020000	vCamerton, Somerset, England	aMarksbury, Somerset, England	z1	d18661000	yMarksbury, Somerset	F18661021	UMarksbury, Somerset, England	fJ3IIK
+iRHSOB	pAmelia "Minnie"	qPayne	gf	vKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	aKeynsham, Somerset, England	z1	d00140000	yKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mRCQIE	fTQR2S	sAM7T1
+iAM7T1	sRHSOB	pWilliam	qNeale	gm	b00160000	vKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	aKeynsham, Keynsham, Somerset, England	z1	d00210000	yKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mI4WNY	fC3G6P
+iSVJKE	pGeorge	qPayne	gm	vKeynsham, Somerset, England	aMarksbury, Somerset, England	mRCQIE	fTQR2S
+iUMGT5	pAlbert	qPayne	gm	b18590000~	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	d19410300	yBristol, Gloucestershire, England	mRCQIE	fTQR2S	sN9CM3
+iN9CM3	sUMGT5	pElizabeth	qFry	gf	b18590100	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	d19340400	yKeynsham, Somerset, England	mDTIJV	fNVJCM
+iN8TNF	pSarah Ann	qPayne	gf	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	yBristol, Gloucestershire, England	mRCQIE	fTQR2S	sT33AT
+iT33AT	sN8TNF	pHenry	qSmith	gm	b18550217	vKelston, Somerset, England	aKelston, Kelston, Kelston, Somerset, England	z1	d19410000	yBristol, Gloucestershire, England	mDOGZ6	fIGK70
+iDQRWW	pFrederick	qPayne	gm	b18650000~	vKeynsham, Somerset, England	aKeynsham, Somerset, England	mRCQIE	fTQR2S
+iZ23Y0	pJoseph	qPayne	gm	b18700000~	vKeynsham, Somerset, England	aKeynsham, Somerset, England	mRCQIE	fTQR2S
+iZJMJT	pWilliam Jackson	qNeal	gm	b18930000~	vKeynsham, Somerset, England	aKeynsham, Keynsham, Somerset, England	z1	d00070000	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mRHSOB	fAM7T1
+iMB5XV	pFrank	qNeale	gm	b18961010	vKeynsham, Somerset	aKeynsham, Keynsham, Somerset, England	z1	d19551216	yBristol Royal Infirmary	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mRHSOB	fAM7T1	sZSHM1
+iZSHM1	sMB5XV	pFlorence	qGibbs	gf	b00010000	vOldland Common, Bitton, England	aSomerset, England	z1	d00250000	yHawthorns House Nursing Home, Keynsham	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England
+iTFUKT	pGladys M	qNeale	gf	b19010000~	vKeynsham, Somerset	aBurnett and Keynsham, Somerset, England	z1	d19640400	yBath, Somerset, England	mRHSOB	fAM7T1
+iSP9HC	pEthel Mary	qNeale	gf	vKeynsham, Somerset	aBurnett and Keynsham, Somerset, England	mRHSOB	fAM7T1
+iPH4O5	pReginald George	qNeale	gm	b19080000~	vKeynsham, Somerset	aBurnett and Keynsham, Somerset, England	z1	d19581124	ySomerset, England	mRHSOB	fAM7T1	sV41TV
+iV41TV	sPH4O5	pMary L	qBrean	gf
+iPPIS8	pNorah	qNeale	gf	b18950000	vKeynsham, Somerset	z1	d19311200	yKeynsham Bristol	mRHSOB	fAM7T1
+iT33WQ	pDouglas Gerald Jack	qNeal	gm	b19320402	v54 St Ladoc Road, Keynsham	aSomerset, England	z1	d19830810	yReading and Wokingham, Berkshire, England	mZSHM1	fMB5XV	sDW6R3
+iDW6R3	sT33WQ	qParfitt	gf
+iKNW9X	pJacqueline Margaret Doreen	qNeal	gf	b19270630	vKeynsham, Somerset, England	z1	d19950227	yKeynsham, Somerset, England	mZSHM1	fMB5XV	sEYDF6
+iEYDF6	sKNW9X	pHarold Ralph	qHargett	gm	b19211009	vBristol, Avon, England	z1	d19770804	yWeymouth, Dorset, England
+iE0DAF	pNeil David	qHargett	gm	b19460923	vKeynsham, Somerset, England	z1	d20161017	yBath, Somerset, England	mKNW9X	fEYDF6	sZVUHE
+iZVUHE	sE0DAF	pVeronica May	qCollett	gf	b19451030	vDevizes, Wiltshire, England	z1	d19800207	yBath, Avon, England
+iNGW0S	pSteven Andrew	qHargett	gm	b19780700	vBath, Avon	mZVUHE	fE0DAF
+iKQLHC	pIvor C	qTaylor	gm	b19280902	aGloucestershire, England	mPV7R6	fLPOK3
+iUWQOV	pJean M	qTaylor	gf	b19300128	aGloucestershire, England	mPV7R6	fLPOK3
+iSTART	pMichael	qMartin	gm	vVictoria, Australia	mCUKHZ	fX5A47	sG45DD
+iG45DD	sSTART	qHarris	gf
+iPI9GP	pThomas	qMay	gm	b18060000	vKeynsham, Somerset, England	aBodmin, Cornwall, England	z1	d18820300	yKeynsham, Somerset, England	mZMBGF	fVEL2T	sDZV0P
+iDZV0P	sPI9GP	pElizabeth	qHapgood	gf	b18150000	vKeynsham, Somerset, England	aBodmin, Cornwall, England	z1	d18890900	yKeynsham, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England
+iDE5QM	pThomas	qMay	gm	b18390000	vKeynsham, Somerset, England	aBodmin, Cornwall, England	z1	d19070600	yAvon, Gloucestershire, United Kingdom	mDZV0P	fPI9GP
+iZI8OX	pAlfred	qMay	gm	b18560600	vUnited Kingdom	aKeynsham, Somerset, England	mDZV0P	fPI9GP
+iOSH30	pAnn	qMay	gf	b18480000~	vKeynsham, Somerset, England	aBristol, Gloucestershire, England	z1	d00100000	yKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mDZV0P	fPI9GP	sG9EIN
+iG9EIN	sOSH30	pIsaac	qSutton	gm	b18430000	vPaddington, London, England
+iXAENJ	pDaniel	qMay	gm	b18440000~	vKeynsham, Somerset, England	z1	d19030900	yKeynsham, Somerset, England	mDZV0P	fPI9GP
+iN8RSE	pEdward	qMay	gm	b18510000~	vKeynsham, Somerset, England	aBodmin, Cornwall, England	mDZV0P	fPI9GP
+iXW4SN	pJames	qMay	gm	b18490000~	vKeynsham, Somerset, England	aKeynsham, Somerset, England	mDZV0P	fPI9GP
+iGWRFD	pJoseph	qMay	gm	b18530600	vGloucestershire, Somerset, United Kingdom	aBodmin, Cornwall, England	mDZV0P	fPI9GP
+iVEL2T	pThomas	qMay	gm	b17840000	vCatcliffe, Yorkshire, England	sZMBGF
+iZMBGF	sVEL2T	pAnn	qWilliams	gf	b17820000	vMaristow, Devon, England
+iUDG6Q	pElizabeth	qMay	gf	b18160000	v1675019, Somerset, England	mZMBGF	fVEL2T
+iLOP77	pHannah	qMay	gf	b18090000	vKeynsham Somerset	z1	d18121009	mZMBGF	fVEL2T
+iO4TOM	pHenry	qMay	gm	b18190000	v1675019, Somerset, England	z1	d18990000	y1675019, Somerset, England	mZMBGF	fVEL2T
+iXX9O2	pJames	qMay	gm	b18200000	v1675019, Somerset, England	mZMBGF	fVEL2T
+iCI7OA	pSarah	qMay	gf	b18210000	v1675019, Somerset, England	mZMBGF	fVEL2T
+iLNNST	pJoseph	qMay	gm	b18240000	v1675019, Somerset, England	mZMBGF	fVEL2T
+iNKWYH	pWilliam Henry	qMay	gm	b18330000	v1662021, Devon, England	z1	d18940900	yDevon, England	mZMBGF	fVEL2T
+iCEWSB	pGeorge	qMay	gm	b18410000	vKeynsham Somerset	z1	ySt George Bristol	mDZV0P	fPI9GP
+iNC6CQ	pWilliam	qMay	gm	b18370000	vLanhydrock, Cornwall	aBodmin, Cornwall, England	mDZV0P	fPI9GP
+iXLW40	pIsaac Christian	qSutton	gm	b18810000	vKeynsham, Somerset, England	mOSH30	fG9EIN
+iQKDA2	pWilliam	qPayne	gm	b17800000	vMarksbury, Somerset, England	z1	d18560530	F18560530	UWeston All Saints (Bath), Somerset, England	sQTDJI
+iQTDJI	sQKDA2	p Jane	gf
+iHMM64	pElizabeth	qPayne	gf	b18250000	vMarksbury, Somerset, England	aPriston, Somerset, England	z1	d19040200	yBristol, Gloucestershire, England	mEHY8G	fBMQGR	sJVXQ5
+iJVXQ5	sHMM64	pRichard	qMiles	gm	b18280404	vPriston, Somerset, England	aPriston, Somerset, England	z1	yBedminster, Somerset, England	mM1FVO	fZDF3O
+iKP7KR	pAnn	qPayne	gf	b18380000	vMarksbury, Somerset, England	aMarksbury, Somerset, England	mEHY8G	fBMQGR
+iKTQS2	pEllen	qPayne	gf	b18430000	vMarksbury, Somerset, England	aMarksbury, Somerset, England	z1	d00100000	yMarksbury, Somerset, England	F18581010	UMarksbury, Somerset, England	mEHY8G	fBMQGR
+iWPEQJ	pCaroline	qPayne	gf	b18330000	vMarksbury, Somerset, England	aMarksbury, Somerset, England	z1	d00070000	ySomerset, England	mEHY8G	fBMQGR	sCEKEK
+iCEKEK	sWPEQJ	pJonas	qAlexander	gm	b18310000~	vStanton Prior, Somerset, England	aSomerset, England	z1	d19070621	yKeynsham, Somerset, England	mI63FJ	fVMCY1	XBBL8B	YVMCY1
+iWDU8D	pFrances	qPayne	gf	b18280000	vMarksbury, Somerset	z1	d18300706	F18300706	UBath, Bath and North East Somerset Unitary Authority, Somerset, England	mEHY8G	fBMQGR
+iW0IHW	pEmily Jane	qMiles	gf	b18550126	vTimsbury, Somerset, England	aTimsbury, Somerset, England	z1	d19190417	yMearns, High Littleton, Somerset, England	mHMM64	fJVXQ5
+iCWBA6	pMary Ann	qMiles	gf	vPriston, Somerset, England	aPriston, Somerset, England	z1	d19330000	yPaulton, Somerset, England.	mHMM64	fJVXQ5	sVRF8D
+iVRF8D	sCWBA6	pTom Newman	qLewis	gm	b18490000	vTimsbury	z1	d19390000	yCamerton, Somerset	mX4FW9	fEQ4BT
+iOOQA6	pWalter Alfred	qMiles	gm	vTimsbury, Somerset, England	aTimsbury, Somerset, England	z1	d19370000	yReg. Frome.	mHMM64	fJVXQ5	sLPATB
+iLPATB	sOOQA6	pEmily Jane	qLeakey	gf	b18580000~	vFarmborough, Somerset, England	aTimsbury, Timsbury, Somerset, England	z1	d19190000	yMidsomer Norton, Somerset
+iG5LNM	pWilliam Henry	qMiles	gm	b18620728	vTimsbury, Somerset, England	aSomerset, England	z1	d19380901	yBath, Somerset, England	UBath, Bath and North East Somerset Unitary Authority, Somerset, England	mHMM64	fJVXQ5	sTREVQ
+iTREVQ	sG5LNM	pFlorence	qSummers	gf	b00210000	vBath Somerset ENG, Somerset, England, United Kingdom	aSomerset, England	z1	d00090000	yBathavon Somerset ENG, Somerset, England, United Kingdom	UBath, Bath and North East Somerset Unitary Authority, Somerset, England	mV0PU5	fOJEEZ
+iPIQFG	pOliver Richard	qMiles	gm	b18660700	vTimsbury, Somerset.	aSomerset, England	z1	d19440600	yWarminster, Wiltshire, England	mHMM64	fJVXQ5	sAFHVY
+iAFHVY	sPIQFG	pSarah Jane	qFowler	gf	b18610100	vHeckington, Worcestershire, England	aSt John, Bedminster, Somerset, England	z1	d19500000	yReg. Warminster.
+iOS2H8	pSarah	qMiles	gf	vTimsbury, Somerset, England	aTimsbury, Somerset, England	mHMM64	fJVXQ5
+iRCY6J	p Francess  Alice	qMiles	gf	vTimsbury, Somerset, England	aSomerset, England	z1	d19200000	yR.D. Clutton, Somerset	mHMM64	fJVXQ5	sCKKW4
+iCKKW4	sRCY6J	pGeorge	qPayne	gm	b18610000~	vTimsbury, Somerset, England	aBristol, Gloucestershire, England	z1	d19160000	yReg. Bristol.	mO920X	fP7Z5U
+iI95N9	pFrancess A	qMiles	gf	b18530000	vKeynsham, Somerset, England	aTimsbury, Somerset, England	mHMM64	fJVXQ5
+iU6NI7	pFrederick Edward William	qDix	gm	b18550708	vMearns, High Littleton, Somerset.	aHigh Littleton, Somerset, England	z1	d19310320	yGlencross, Penmaen Road, Portllanfraith, Mynyddislwyn	mO77PJ	fOXRXP	sYGB4N
+iYGB4N	sU6NI7	pOlive Kate	qCrane	gf	b18910813	vChew Magna, Somerset, England	z1	d19300213	yClutton, Somerset, England
+iHR3V4	pEdgar Elvan	qDix	gm	b18910630	vHigh Littleton, Somerset, England	aFarmborough, Farmborough, Somerset, England	z1	d19480608	yBargoed, Mid Glamorgan.	mW0IHW	fU6NI7	sAPI1Z
+iAPI1Z	sHR3V4	pCatherine Florence	qJones	gf	b18910106	vYnysybwl, Glamorgan.	z1	d19411229	yBargoed, Mid Glamorgan.	mBXOU8	fKCK5H
+iDHDVM	pAdelaide	qDix	gf	b18850910	vHigh Littleton	aHigh Littleton, Somerset, England	z1	d19540513	yEythorne, Kent, England	mW0IHW	fU6NI7	sU37K2
+iU37K2	sDHDVM	pSidney John	qAxford	gm	b00280000	vClutton, Somerset, England	aKingswood, Somerset, England	z1	yDon Valley, Yorkshire West Riding, England	mH0OQX	fWAZWU
+iHF4CM	pAlbert Edward	qDix	gm	b18800000	vHigh Littleton	z1	d18820400	yClutton, Somerset, England	mW0IHW	fU6NI7
+iV0ORW	pFrederick George	qDix	gm	b18870324	vHigh Littleton, Somerset, England	aHigh Littleton, Somerset, England	z1	d19710311	yEast Glamorgan, Glamorganshire, Wales	mW0IHW	fU6NI7	sD0O3A
+iD0O3A	sV0ORW	pFlorence Elizabeth	qGregory	gf	b18901213	aMonmouthshire, Wales	z1	d19700400	yCaerleon, Monmouthshire, Wales
+iR2VUF	pEvaline	qDix	gf	vHigh Littleton, Somerset, England	aFarmborough, Farmborough, Somerset, England	mW0IHW	fU6NI7
+iPNC8W	pWalter Thomas	qDix	gm	b18931121	vHigh Littleton, Somerset, England	aFarmborough, Farmborough, Somerset, England	z1	d19661200	yCaerleon, Monmouthshire, Wales	mW0IHW	fU6NI7	sSP22S
+iSP22S	sPNC8W	pDorothy Gladys	qSurridge	gf	b19050913	vFulham, London, England	aDorset, England	z1	d19810000	ySouth Glamorgan, South Glamorgan, Wales
+iAID34	pAvelina	qDix	gf	vHigh Littleton, Somerset, England	aHigh Littleton, Somerset, England	z1	d19480000	mW0IHW	fU6NI7	sVDTPY
+iVDTPY	sAID34	pThomas Baldwin	qSelvedge	gm	b18810000~	vChewton Mendip, Somerset	z1	d19500100	yCaerleon, Monmouthshire, Wales
+iZ9BBU	pLambert William	qDix	gm	b18811211	vTimsbury, Somerset, England	aHigh Littleton, Somerset, England	z1	d19450300	yBedwellty, Monmouthshire, Wales	mW0IHW	fU6NI7	sTWFOP
+iTWFOP	sZ9BBU	pEthel Blanche	qFerris	gf	b18831202	vSheldon Road, Chippenham, Wiltshire, England	aHigh Littleton, Somerset, England	z1	d19640300	yBedwellty, Monmouthshire, Wales
+iKL0JO	pTom	qDix	gm	b18830525	vTimsbury, Somerset, England	aHigh Littleton, Somerset, England	z1	d19500400	yTaunton, Somerset, England	mW0IHW	fU6NI7	sSL9FM
+iSL9FM	sKL0JO	pMinnie Elizabeth	qBrimble	gf	b18820910	vBolton Upon Dearne, Yorkshire	aHigh Littleton, Somerset, England	z1	d19590228	yBournemouth
+iCCESU	pAlice Elizabeth	qDix	gf	b18760806	vTimsbury	z1	d18770407	yTimsbury	mW0IHW	fU6NI7
+iTHNL2	pSamuel John	qDix	gm	b18990416	vClutton, Somerset, England	z1	d19090300	yClutton, Somerset, England	mW0IHW	fU6NI7
+iN6FV5	pDorothy	qDix	gf	b18920900	vHigh Littleton	z1	d18921101	yHigh Littleton	mW0IHW	fU6NI7
+iUWE5Q	pEmily Jane	qDIX	gf	vHigh Littleton	z1	d18881120	yHigh Littleton	mW0IHW	fU6NI7
+iZ4PB6	pAlbert Edward	qDix	gm	b18990000	vHigh Littleton, Somerset	aTimsbury, Somerset, England	z1	d18990000	yHigh Littleton, Somerset	mW0IHW	fU6NI7
+iQ411N	pFrederick Vernon Malcom Stuart 	qDix	gm	b19310104	vBargoed, Glamorgan, Wales	z1	d20090225	yRoyal Gwent Hospital, Newport.	mAPI1Z	fHR3V4	sXLC57
+iXLC57	sQ411N	pMavis Audrey	qYoung	gf	b19311227	vChiswick and Ealing Maternity Hospital	z1	d20190114	yPrince Charles Hospital, Merthyr Tydfil, Wales
+iIRUZ3	pCelwyn Tregethin Richard Caradog	qDix	gm	b19250803	vBargoed, Mid Glamorgan.	z1	d20150921	mAPI1Z	fHR3V4
+iII0R3	pDorita Celeste Beryl Joan	qDix	gf	b19250803	vBargoed, Mid Glamorgan.	z1	yReg. Cardiff.	mAPI1Z	fHR3V4
+iPJQZF	pElvan Randolph Cyril	qDix	gm	b19111226	vReg. Pontypridd.	z1	d19690711	yReg. Cardiff.	mAPI1Z	fHR3V4
+iXYAMZ	pGwyndra Constance Yvonne	qDix	gf	b19130129	vReg. Newport, Monmouthshire.	z1	d19790131	yReg. Merthyr Tydfil.	mAPI1Z	fHR3V4
+iYNFFE	pCatherine Lorna Jean Ann	qDix	gf	b19350516	vBargoed, Mid Glamorgan.	z1	d19990908	yBridgend, Glamorgan, Wales	mAPI1Z	fHR3V4
+iW29WT	pEmily Thelma Jocelyn	qDix	gf	b19200928	vBargoed, Mid Glamorgan.	z1	d19880703	yBargoed, Mid Glamorgan.	mAPI1Z	fHR3V4	sA16JZ
+iA16JZ	sW29WT	pDouglas 	qSmall	gm	vUnited Kingdom
+iI8B6X	pMarcus Claudius Anatole	qDix	gm	b19221215	vReg. Merthyr Tydfil.	z1	d19970404	yMerthyr Tydfil, Mid Glamorgan, Wales	mAPI1Z	fHR3V4
+iWI5U0	pVictor Percival	qDix	gm	b19100305	vClutton, Somerset, United Kingdom	z1	d19930416	yHavering, Greater London, England	mAPI1Z	fHR3V4
+iSGAF6	pEsme Glanville ( Glan ) Lorraine	qDix	gm	b19190217	v18, Hill St., Bargoed, Mid Glamorgan.	z1	d19830613	y46, Thomas St., Aberbargoed, Mid Glamorgan.	mAPI1Z	fHR3V4	sX10YI
+iX10YI	sSGAF6	pMabel Rosina	qDymond	gf	b19230613	v18, Bryn Gwyn St., Fleur De Lys, Monmouthshire.	z1	d19650730	ySully Hospital, Barry, Glamorgan.
+iECUGO	pAnthony David Raoul Grey ( Ray )	qDix	gm	b19160629	vReg. Bedwellty.	z1	d19840000	yReg. Weymouth.	mAPI1Z	fHR3V4
+iHE1QK	pEdgar Ormond Gordon Bonaparte	qDix	gm	b19140613	vClutton, Somerset, United Kingdom	z1	d19740900	yHavering, Greater London, England	mAPI1Z	fHR3V4
+iQH6YE	pSandra Constance Mavis	qDix	gf	b19521118	z1	d20090130	yWhakatane, Bay of Plenty, New Zealand	mXLC57	fQ411N
+iOTMPE	pMartin	qDix	gm	mXLC57	fQ411N
+iEKM1R	pEllen	qAlexander	gf	b18620000~	vMarksbury, Somerset, England	aSomerset, England	z1	d19190900	yBrentford, Middlesex, England	mWPEQJ	fCEKEK	sCY4OI
+iCY4OI	sEKM1R	pWilliam Joseph	qWhetham	gm	b18631126	vIlminster, Somerset, England	aHanwell, Hanwell, Hanwell, Middlesex, England	z1	d19470114	yStanford-le-Hope, Essex, England
+iTCVTS	pClara	qAlexander	gf	b18630000~	vMarksbury, Somerset, England	aSomerset, England	mWPEQJ	fCEKEK
+iXP48L	pAgnes	qAlexander	gf	b18660000~	vMarksbury, Somerset, England	aSomerset, England	z1	d00090000	ULower Weston, Bath and North East Somerset Unitary Authority, Somerset, England	mWPEQJ	fCEKEK
+iUVSXJ	pMark Edward	qAlexander	gm	b18670328	vMarksbury, Somerset, England	aSomerset, England	z1	d19440503	yBathavon, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mWPEQJ	fCEKEK
+iQH29W	pMary Ann	qAlexander	gf	b18710000~	vMarksbury, Somerset, England	aSomerset, England	z1	d19530000	yBath	mWPEQJ	fCEKEK	sBABK4
+iBABK4	sQH29W	pSidney Charles	qWest	gm	b18680701	vBath, Somerset	aTwerton, Twerton, Somerset, England	z1	d00280000	ySt Martins Hospital, Bath	mB6IOL	fR1OFU
+iXD1HH	pMinnie	qAlexander	gf	b18800000~	vMarksbury, Somerset, England	aMarksbury, Somerset, England	z1	d19570300	yBristol, Gloucestershire, England	mWPEQJ	fCEKEK	sXWVYI
+iXWVYI	sXD1HH	pHarry Durrant	qLuckes	gm	b18780000~	vBridgwater, Somerset	aBristol, Gloucestershire, England	z1	d19550000	yBristol, Gloucestershire, England	fV21ME
+iBNSOF	pAmy Alice Louise	qAlexander	gf	b18800622	vMarksbury, Somerset, England	aMarksbury, Somerset, England	z1	d19610400	yBristol, Gloucestershire, England	mWPEQJ	fCEKEK	sAT799
+iAT799	sBNSOF	pJames	qCooksley	gm	b18810000	vBedminster, Somerset, England	aWrington, Somerset, England	z1	d19350802	yBath, Somerset, England	UBath, Bath and North East Somerset Unitary Authority, Somerset, England
+iLMC8A	pMuriel Florence	qMiles	gf	b00310000	vBath Somerset ENG, Somerset, England, United Kingdom	aSomerset, England	z1	d19990000	yWithyditch Somerset ENG, Somerset, England, United Kingdom	mTREVQ	fG5LNM
+iIVIEU	pLydia	qSperring	gf	b18610100	vTimsbury, Clutton, Somerset, England	aTimsbury, Somerset, England	z1	d19160300	yClutton, Somerset, England	mQHM29	fLGJRU
+iWBYWI	pSarah Elizabeth	qMiles	gf	b18810111	vTimsbury, Somerset, England	aTimsbury, Somerset, England	z1	d19381200	yBourne, Lincolnshire, England	mIVIEU	fG5LNM	sYMUVF
+iYMUVF	sWBYWI	pThomas	qCooper	gm	b18791200	vLutton, Lincolnshire, England	z1	d19451200	yBourne, Lincolnshire, England	mI9HQG	fOAB1S
+iXXWOC	pGilbert Edwin	qMiles	gm	b18931000	vTimsbury, Somerset.	aTimsbury, Somerset, England	z1	d19641200	yNorton, Somerset, England	mIVIEU	fG5LNM	sCJ74A
+iCJ74A	sXXWOC	pEllen Elizabeth	qBridges	gf	b18930700	vClutton, Somerset	aSomerset, England	z1	d19681200	yNorton, Somerset, England
+iUOHAA	pAlfred	qMiles	gm	b18910300	vTimsbury, Somerset.	aTimsbury, Somerset, England	z1	d19511000	yNorton, Somerset, England	mIVIEU	fG5LNM	sKH9YG
+iKH9YG	sUOHAA	pEllen	qDando	gf	b18920402	vClifton, Bristol, Gloucestershire.	aSomerset, England	mRMD9T	fB0984
+iX0SAM	pHarold Sidney	qMiles	gm	b18970700	vTimsbury, Somerset.	aTimsbury, Somerset, England	mIVIEU	fG5LNM
+iZQYBO	pDoris Vera	qMiles	gf	b18990700	vTimsbury, Somerset.	aTimsbury, Somerset, England	z1	d19701021	yWiltshire	mIVIEU	fG5LNM	sT6OAO
+iT6OAO	sZQYBO	pAlbert E	qColeman	gm	b19050823	aWiltshire, England
+iSN98S	pEdgar	qMiles	gm	b18950100	vTimsbury, Somerset.	aTimsbury, Somerset, England	mIVIEU	fG5LNM
+iO3TIP	pFlorence	qMiles	gf	b18820700	vTimsbury, Somerset, England	aTimsbury, Somerset, England	mIVIEU	fG5LNM
+iUEDPS	pHenry George	qMiles	gm	vClutton, Somerset, England	aTimsbury, Somerset, England	z1	d19630900	yBristol, Gloucestershire, England	mIVIEU	fG5LNM	sZ500L
+iZ500L	sUEDPS	pAlice	qMiles	gf	b18770000	vNewport, Monmouthshire	aTimsbury, Somerset, England	mAFHVY	fPIQFG
+iDH7MH	pEdward	qPayne	gm	b18870000	vKeynsham, Somerset, England	aKeynsham, Somerset, England	mRCQIE	fTQR2S
+iYJ8QJ	pEmily	qCantle	gf	vKeynsham, Somerset, England	aKeynsham, Keynsham, Somerset, England	z1	d18930000	yBedminster, Bristol, Gloucestershire, England	mWB4I9	fHC5VS
+iHPZ9Q	pFrancis Walter	qPayne	gm	b18800000	vKeynsham, Somerset, England	z1	d18820000>	mYJ8QJ	fGA2NO
+iCZ4DX	pEmily Alice	qPayne	gf	vBedminster, Somerset, England	aKeynsham, Keynsham, Somerset, England	z1	d00010000	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mYJ8QJ	fGA2NO	sZYVLQ
+iZYVLQ	sCZ4DX	pHenry	qBrewer	gm	b18800903	vBitton, Gloucestershire, England	aBurnett and Keynsham, Somerset, England	z1	d19520900	yBristol, Gloucestershire, England
+iJXQ66	pEthel Gertrude	qPayne	gf	b18860000	vBedminster, Bristol, Gloucestershire, England	aKnowle, Holy Nativity, Bedminster, Somerset, England	mYJ8QJ	fGA2NO
+iWZA9E	pFrancis Walter	qPayne	gm	vBedminster, Somerset, England	aKnowle, Holy Nativity, Bedminster, Somerset, England	mYJ8QJ	fGA2NO
+iNELQR	pWilliam Ernest	qPayne	gm	vBedminster, Somerset, England	aKnowle, Holy Nativity, Bedminster, Somerset, England	z1	d00180000	yBath, Somerset, England	UBathwick, Bath and North East Somerset Unitary Authority, Somerset, England	mYJ8QJ	fGA2NO
+iNO0R4	pBeatrice Lily	qPayne	gf	b18910118	vBedminster, Bristol, Gloucestershire, England	aKnowle, Holy Nativity, Bedminster, Somerset, England	z1	d19590100	yDerby, Derbyshire, England	mYJ8QJ	fGA2NO	sNKF4D
+iNKF4D	sNO0R4	pArthur	qWarner	gm	b18860630	vMickleover, Derbyshire, England	aDerbyshire, England	z1	d19490700	yShardlow, Derbyshire, England
+iA2J01	pElsie Laura	qPayne	gf	vBedminster Knowle, Somerset, England Bristol	aKnowle, Holy Nativity, Bedminster, Somerset, England	mYJ8QJ	fGA2NO
+iC8VU4	pFred	qPayne	gm	b18940000	vBedminster, Bristol, Gloucestershire, England	z1	d18940614	yBedminster, Bristol, Gloucestershire, England	mT4QV7	fGA2NO
+iMPTRP	pMinnie Gertrude	qPayne	gf	vBedminster, Somerset, England	mT4QV7	fGA2NO
+iRBUAR	pMartha	qPayne	gf	b18690000	vFrampton Cotterell Gloucestershire England	mRCQIE	fTQR2S
+iBT52B	pHester Perring	qPayne	gf	b18540000	oFound on someone else's tree. I do not personally believe this person is right. Likely a confusion with this individual:\nhttps://www.ancestry.co.uk/discoveryui-content/view/920106:61188\n\nWouldnt trust validity of random member trees.	mRCQIE	fTQR2S
+iP1OCM	pJeff	qSmith	gm	b18850000~	vBitton, Gloucestershire	aKelston, Kelston, Kelston, Somerset, England	z1	yMount Vernon, Mount Vernon City, Westchester, New York, United States	mN8TNF	fT33AT	XJFYKL	YT33AT	sPN7FO
+iPN7FO	sP1OCM	pElla Amanda	qDavey	gf	b18830728	vBitton, Gloucestershire, England	z1	d19541216	yUnity, Saskatchewan, Canada	mJP31R	fZB33C
+iIGK70	pJoseph	qSmith	gm	b18210111	vKeynsham Somerset 	z1	d18780600	yKeynsham Somerset 5c 483	sDOGZ6
+iDOGZ6	sIGK70	pCaroline Louisa	qRawlings	gf	b18221117	vSt. George, Bristol, Gloucestershire 	z1	d19111100	yKeynsham Somerset 5c 694 Age 93
+iLH7LA	pRodney	qSmith	gm	vBitton, England	z1	d19800419	ySaskatoon, Sask.Canada	mPN7FO	fP1OCM	sVKYXP
+iVKYXP	sLH7LA	pNaomi Florence	qInnes	gf	b19110524	vS.E.1/4 Sec.7, Township41, Range26 West of the 3rd Meridian, Senlac, Sask.	z1	d19990317	ySaskatoon, Saskatchewan
+iZB33C	pWilliam Ashford	qDavey	gm	b18541200	vUplyme, Devon, England	z1	d19250900	yKeynsham, Somerset, England	sJP31R
+iJP31R	sZB33C	pElizabeth Ann	qTippit	gf	vBitton, Gloucestershire, England	z1	d19300600	yKeynsham, Somerset, England
+iEEXQB	pFanny	qSmith	gf	b18840000~	vBitton, Gloucestershire, England	aKelston, Kelston, Kelston, Somerset, England	z1	d19630101	yEastbourne, Surrey, England	mN8TNF	fT33AT	XJFYKL	YT33AT	sBZSAB
+iBZSAB	sEEXQB	pEarnest C P	qGoodwin	gm	vEngland	z1	d19700700	yBulmer, Yorkshire North Riding, England	mK4TR3	fNFY8P
+iJVQUK	pAlbert E	qSmith	gm	b18890000	vRedditch, Worcestershire, England	aKelston, Kelston, Kelston, Somerset, England	mN8TNF	fT33AT
+iJFYKL	pSophia	qJenkins	gf	b18540120	v Somerset , England	z1	d18870600	yKeynsham, Somerset, England
+iD0I8S	pBlanche Elizabeth	qPayne	gf	b19051007	vBristol, Gloucestershire	aBristol, Gloucestershire, England	z1	d19901100	yBristol, Avon, England	mN9CM3	fUMGT5	sRLWKX
+iRLWKX	sD0I8S	pKenneth George	qPople	lPople	gm	b19010909	vPuriton, Somerset	z1	d19891100	yBristol, Avon, England
+iSEWNU	pIvy Louisa	qPayne	gf	b19041108	vBristol	aBristol, Gloucestershire, England	z1	d19880600	yBristol, Avon, England	mN9CM3	fUMGT5
+iR1GEL	pMary A	qPayne	gf	b18850000	vKeynsham, Somerset, England	aSt Silas, St Philip and St Jacob, Gloucestershire, England	mN9CM3	fUMGT5
+iMRQF1	pJoseph Henry	qPayne	gm	b18870506	vKeynsham	aSt Silas, St Philip and St Jacob, Gloucestershire, England	z1	d19360400	yBristol, Gloucestershire, England	USt George, Bristol Unitary Authority, Bristol, England	mN9CM3	fUMGT5
+iUHRKH	pEliza	qPayne	gf	b18890000	vBristol, Somerset, England	aSt Silas, St Philip and St Jacob, Gloucestershire, England	z1	d18910000	yBristol, Gloucestershire, England	mN9CM3	fUMGT5
+iN3HVG	pAlbert	qPayne	gm	b18930000~	vBristol, Gloucestershire, England	aBristol, Gloucestershire, England	mN9CM3	fUMGT5
+iK94BM	pPheona Anne	qSmall	gf	mW29WT	fA16JZ	sH2WPO
+iH2WPO	sK94BM	pGraham	qDix	gm	b19440610	vPontypool, Gwent	z1	d20140411	mX10YI	fSGAF6
+iKZDV3	pMark Graham	qDix	gm	ohttps://www.myheritage.com/site-833728041/dix	mK94BM	fH2WPO
+iKCK5H	pDavid Britton	qJones	gm	b18660710	vMountain Ash, Glamorgan, , Wales	z1	d19411229	yBargoed, Glamorgan, Wales	sBXOU8
+iBXOU8	sKCK5H	pElizabeth	qHogan	gf	b18650600	vPontrhygroes, Cardiganshire, Wales	z1	d19310921	yCilfynydd, Mid Glamorgan.
+iQD14Z	pDavid William	qJones	gm	vCilfynydd, Glamorgan, Wales	mBXOU8	fKCK5H
+iY5Q4E	pElizabeth Ann	qJones	gf	vCilfynydd, Mid Glamorgan.	z1	d19270510	yPontypridd Glamorgan, Wales	mBXOU8	fKCK5H
+iEJDAK	pWilliam Edmund	qJenkins	gm	b18880000	vPontypridd, Wales, United Kingdom
+iV8DE4	pWalter Daniel	qMiles	gm	vBedminster, Somerset, United Kingdom	aTimsbury, Timsbury, Somerset, England	z1	d00150000	yBristol, Gloucestershire, England	USt George, Bristol Unitary Authority, Bristol, England	mLPATB	fOOQA6	sNN85L
+iNN85L	sV8DE4	pMabel Ann	qWebb-Smith	gf	b18860610	vSt Phillips, Bristol, Gloucestershire, England	aBristol, Gloucestershire, England	z1	d19691000	yReg. Bristol.
+iHHRZ2	pEmily Lavinia	qMiles	gf	b18860310	vBedminster, Somerset.	aTimsbury, Timsbury, Somerset, England	z1	d19640700	yBournemouth, Hampshire, England	mLPATB	fOOQA6	sZR6QB
+iZR6QB	sHHRZ2	pWilliam Henry	qJacka	gm	b18750000	vTruro, Cornwall	aHampshire, England	z1	yBournemouth, Dorset, England
+iLM5HG	pThomas Godfrey	qMiles	gm	b18900914	vTimsbury, Somerset.	aTimsbury, Timsbury, Somerset, England	z1	d19680000	yMidsomer Norton, Somerset	mLPATB	fOOQA6	sHLT3Y
+iHLT3Y	sLM5HG	pGrace Joanna	qKeevill	gf	b18891123	vMidsomer Norton, Somerset.	aSomerset, England	z1	d19660000	yMidsomer Norton, Somerset.	mNE3R9	fT4NVP
+iPFBB9	pOlive Elizabeth	qMiles	gf	b18950000	vTimsbury, Somerset.	aMidsomer Norton, Somerset, England	mLPATB	fOOQA6
+iEHJJH	pEdwin Charles	qSargent	gm	b18860421	vMagpie, Victoria, Australia	z1	d19511216	yBallarat, Victoria, Australia	mBC1U2	fROH2T	sOZXUJ
+iOZXUJ	sEHJJH	pBessie	qHarris	gf	b18930608	vBallarat East, Victoria, Australia	z1	d19780604	yBallarat, Victoria, Australia	mI9NMB	fNAEOH
+iROH2T	pSidney James	qSargent	gm	b18480000	vChipping Sodbury,,Gloucestershire,England	z1	d19090000	yBuninyong,Aus,Victoria,Australia	mKR1WD	fNCJAG	sBC1U2
+iBC1U2	sROH2T	pEliza Elizabeth	qBraybrook	gf	b18631018	vMount Clear, Ballarat, Victoria, Australie	z1	d19270417	yBallarat East, Victoria, Australie	mL8UUN	fU6MFI
+iNAEOH	pJoseph Hicks	qHarris	gm	b18560000	vRedruth, Cornwall, England	z1	d19201117	yBowen Hills, Brisbane, Queensland, Australia	mT2E8U	fRAXOU	sI9NMB
+iI9NMB	sNAEOH	pElizabeth Owen	qWarren	gf	b18580000~	vLexton, Victoria, Australia	z1	d19270609	ySeymour, Victoria, Australia	mJSIV1	fLFRD0
+iJSIV1	pALICE	qMEES	gf	vBarkston in Willows, Lincolnshire, England	z1	d18981213	yLexton, Victoria, Australia	sLFRD0
+iLFRD0	sJSIV1	pJohn	qWarren	gm	b18241104	vPytchley, NORTHAMPTON, ENGLAND	z1	d00040000	yLexton, VICTORIA, AUSTRALIA
+iT2E8U	pMary Jane	qHicks	gf	b18230000	vRedruth, Cornwall, England	z1	d19140115	yBallarat, Victoria, Australia	sRAXOU
+iRAXOU	sT2E8U	pWilliam Henry	qHarris	gm	b18271007	vRedruth, Cornwall, England	z1	d19061115	yWaterloo, Victoria, Australia
+iL8UUN	pElizabeth	qBowerman	gf	b18430323	vBelfast, Victoria, Australia	z1	d19280525	yBallarat, Victoria, Australia	sU6MFI
+iU6MFI	sL8UUN	pWilliam	qBraybrook	gm	b18430427	vRiver Plenty, Aus, Victoria, Australia	z1	d19011016	yBooyong, Victoria
+iKR1WD	pFrances	qMorgan	gf	b18230000	vChipping Sodbury, Gloucestershire, England	z1	yChipping Sodbury, Gloucestershire, England	sNCJAG
+iNCJAG	sKR1WD	pEdwin	qSargent	gm	b18230000~	vHorton, Gloucestershire, England	z1	d18811223	yMt Clear,Ballarat,Victoria,Australia
+iZ08EY	pSophia	qMartin	gf	b18500000~	vBitton, Gloucestershire, England	aBitton, Gloucestershire, England	fKNKKS
+iGWF3G	pAngelina Helen	qKrinks	gf	b18300000	vBristol, Gloucestershire, England	mN2YGH	fFIUSS
+iNWD51	pSophia Elizabeth	qMartin	gf	b18490000	vBitton, Gloucestershire, England	aBitton, Gloucestershire, England	mOIPJX	fKNKKS
+iIJJC5	pWilliam	qKrinks	gm	b17670000	vBristol, Gloucestershire, England, United Kingdom	z1	d18280500	yBristol. Gloucestershire, England.	sJV8WW
+iJV8WW	sIJJC5	pAngel	qWilliams	gf	b17700000	vStapleton, Bristol, Glos. England	z1	d18280000	yBristol, Gloucestershire, England.
+iDWMD1	pWilliam	qCrinks	gm	b18010800	vBristol, Gloucestershire, England, United Kingdom	z1	d18831000	yBarton Regis, Gloucestershire, England..	mJV8WW	fIJJC5
+iAWT03	pWilliam	qKrinks	gm	mJV8WW	fIJJC5
+iT9P63	pSarah	qKrinks	gf	b18070315	vBristol,  Gloucestershire, , England	z1	d18691107	yClifton, Bristol, Gloucestershire, England	mJV8WW	fIJJC5
+iQPPZK	pNancy	qKrinks	gf	b17950000	vBristol, England, United Kingdom	mJV8WW	fIJJC5
+iEAUPD	pAnn	qKrinks	gf	b18090000	vBristol, England, United Kingdom	z1	d18550100	yBristol, Gloucestershire, England	mJV8WW	fIJJC5
+iL2ZOP	pJacob	qKrinks	gm	b17970000~	vSt Phillips Bristol, Gloucestershire, England.	z1	yKeynsham, Somerset	mJV8WW	fIJJC5
+iISCYW	pDaniel Henry	qKrinks	gm	b18040000	vBristol, Gloucestershire, England.	z1	d18601202	yKeynsham, Somerset	mJV8WW	fIJJC5
+iVZJMQ	pElizabeth	qKrinks	gf	b17980000	vBristol, England, United Kingdom	mJV8WW	fIJJC5
+iBDQRA	pHenry Thomas	qKrinks	gm	b18110000	vBristol, Gloucestershire, England.	mJV8WW	fIJJC5
+iGDPZ2	pThomas	qKrinks	gm	b18000000	vBristol, England, United Kingdom	z1	d18831000	yBarton Regis, Gloucestershire, England..	mJV8WW	fIJJC5
+iT53KL	pHester	q Saunders	gf	b18010426	vBristol. Gloucestershire. England.	z1	d18420000
+iY0EXF	pAnn	qKrinks	gf	b18271217	vTabernacle, Bristol, Gloucester, England	mT53KL	fFIUSS
+iO9YWY	pEliza	qKrinks	gf	b18251031	mT53KL	fFIUSS
+iHPOT2	pElizabeth	qKrinks	gf	b18320000~	vBristol.Gloucestershire. England.	fFIUSS
+iWV6KC	pJames	qKrinks	gm	b18240423	vBristol.Gloucestershire. England.	fFIUSS
+iXUGMJ	pWilliam	qKrinks	gm	b18290402	vBristol.Gloucestershire. England.	z1	d18870300	yBristol.Gloucestershire. England.	fFIUSS
+iZDF3O	pJohn	qMiles	gm	b17891113	vPotterne, Wiltshire, England	aPotterne, Wiltshire, England	z1	d18690100	yDevizes, Wiltshire, England	F18690310	UWiltshire, England	mZLXH1	fXSX4J	sM1FVO
+iM1FVO	sZDF3O	pElizabeth	qHeal	gf	b17870701	vCamerton, Somerset, England	aPotterne, Wiltshire, England	z1	d00040000	yPriston, Somerset, England	fRZHLM	XMYCCX
+iHGO82	pEliza	qMiles	gf	b18220922	vPriston, Somerset, England	z1	d18950600	yBath,  Somerset,  England	mM1FVO	fZDF3O
+iBJIQ2	pAnn	qMiles	gf	b18150129	vPriston, Somerset, England	z1	d18500807	yPriston, Somerset, England	mM1FVO	fZDF3O
+iALO7V	pJacob	qMiles	gm	b18210128	vPriston, Somerset, England	z1	d18210200	yPriston, Somerset, England	mM1FVO	fZDF3O
+iM4FXH	pSarah	qMiles	gf	b18240706	vPriston, Somerset, England	z1	d00270000	yAxbridge Breane Sommerset	mM1FVO	fZDF3O
+iKXLUQ	pElizabeth	qMiles	gf	b18260000	vPriston	aPotterne, Wiltshire, England	z1	d00210000	mM1FVO	fZDF3O
+iSBH4W	pAbraham	qMiles	gm	b18100527	vPriston, Somerset, England	z1	d18110514	yPriston, Somerset, England	mM1FVO	fZDF3O
+iPE2AD	pIsaac	qMiles	gm	b18190315	vPriston, Somerset, England	z1	d00130000	yTytherington Wiltshire, England	mM1FVO	fZDF3O	sWJ6EF
+iWJ6EF	sPE2AD	pMary Ann	qEveleigh	lEverley	gf	b18200000~	aTytherington, Tytherington, Wiltshire, England	mZUEF5	fYSGVZ
+iPCM3T	pWilliam	qMiles	gm	b00100000	vPriston, Somerset, England	z1	d18280421	ySt Swithins	mM1FVO	fZDF3O
+iD44T2	pGeorge	qMiles	gm	b18110707	vPriston, Somerset, England	z1	ySomerset, United Kingdom	mM1FVO	fZDF3O
+iLAXVY	pJohn Edwin	qMiles	gm	b00020000	vEnglishcombe, England 	mM1FVO	fZDF3O
+iWALGU	JMIGRANT	pCharles  MIGRANT	qMiles	gm	b00040000	vPriston, Somerset, England	z1	d19020914	yRaywood, Victoria, Australia	mM1FVO	fZDF3O
+iU5V90	pJohn	qMiles	gm	b18170223	vPriston, Somerset, England	z1	d18190114	yPriston, Somerset, England	mM1FVO	fZDF3O
+iGV5BW	pWilliam	qPeacock	gm	b17520000~	vGloucestershire, England	z1	d18450800	yBitton, Gloucestershire, England	sYWYKQ
+iYWYKQ	sGV5BW	pHester	qScull	gf	b17610000~	vBitton, Gloucestershire, England	z1	d18401200	yBitton, Gloucestershire, England
+iFPLC9	pJoseph	qPeacock	gm	b17900000~	vBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iCR91D	pGeorge	qPeacock	gm	b17920000~	vBitton, Gloucestershire, England	z1	d17930600	yBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iRWDA3	pMary	qPeacock	gf	b17820000~	vBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iR2ZJ2	pBetty	qPeacock	gf	b17870000~	vBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iLROKT	pWilliam	qPeacock	gm	b17860000~	vBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iAIFYT	pGeorge	qPeacock	gm	b17960000~	vBitton, Gloucestershire, England	z1	d18780700	yBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iP6978	pThomas	qPeacock	gm	b18000000~	vBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iZBQ83	pSarah	qPeacock	gf	b18070000~	vBitton, Gloucestershire, England	z1	d18070600	yBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iOXQXX	pSarah	qPeacock	gf	b18040000~	vBitton, Gloucestershire, England	z1	d18040400	yBitton, Gloucestershire, England	mYWYKQ	fGV5BW
+iGLQ8V	pSophia	qMartin	gf	b18220000~	vBitton, Gloucestershire, England	z1	d18550300	yBristol, England	mKY4GW	fBC0SM
+iGNCWY	pSarah	qMartin	gf	b18070000~	vBitton, Gloucestershire, England	mKY4GW	fBC0SM
+iPW71L	pBetty	qMartin	gf	b18110000~	vBitton, Gloucestershire, England	mKY4GW	fBC0SM
+iMNIQL	pMary	qMartin	gf	b18170000~	vBitton, Gloucestershire, England	mKY4GW	fBC0SM
+iFPMYO	pThomas	qMartin	gm	b18100000~	vBitton, Gloucestershire, England	z1	d18110000~	yBitton, Gloucestershire, England	mKY4GW	fBC0SM
+iEIBW6	pBarnabas	qMay	gm	b18380000~	vCornwall, St Winnow	aBodmin, Cornwall, England	mDZV0P	fPI9GP
+iS6IF4	pMary	qMay	gf	b18450000~	vCornwall, Lanhydrock	aBodmin, Cornwall, England	mDZV0P	fPI9GP
+iVNI6A	pJohn	qMay	gm	b18470000~	vCornwall, Lanhydrock	aBodmin, Cornwall, England	mDZV0P	fPI9GP
+iXSX4J	JSenior	pJohn Francis  Senior	qMiles	gm	b17480000	vPriston, Somerset, England	z1	d18260000~	sZLXH1
+iZLXH1	sXSX4J	pCatharine	qCannings	gf	vSherston Magna, Wiltshire, England.	z1	d18010500	yBradford on Avon, Wiltshire, England
+iZOHLD	pJohn	qMiles	gm	b17770000	vWiltshire, England	z1	d17770000	yWiltshire, England	mZLXH1	fXSX4J
+iPRLXE	pThomas	qMiles	gm	b18220000	vMoreton Marsh, Gloucestershire, England	mM1FVO	fZDF3O
+iFMAPS	pMicah	qMiles	gm	vPriston, Somerset, England	mM1FVO	fZDF3O
+iXBXT5	pAlbert	qMiles	gm	b18470000	vWarminster, Wiltshire, England	mWJ6EF	fPE2AD
+iYSGVZ	pThomas	qEverley	gm	sZUEF5
+iZUEF5	sYSGVZ	pMary	gf
+iF1NTO	pWilliam	qPickford	gm	b18560000	vCamerton, Somerset	aCamerton, Somerset, England	z1	yTunley, Somerset	mMGH6E	fKFMK1
+iN11SG	pMartha	qPickford	gf	b00290000	vPriston, Somerset	aCamerton, Somerset, England	z1	d00100000	yBristol, Gloucestershire	mCWBA6	fF1NTO	sBJUH9
+iBJUH9	sN11SG	pHenry Herbert	qSweet	gm	b18880508	vCastle Cary, Somerset, England	z1	d19460300	yWeston-super-Mare, Somerset, England
+iHOQGS	pChristina Violet	qPickford	gf	b18990502	vCamerton, Somerset	aCamerton, Somerset, England	z1	d00170000	yShepton Mallet, Somerset	mCWBA6	fF1NTO	sQJT90
+iQJT90	sHOQGS	pJohn Henry	qTucker	gm	b00040000	vShepton Mallet, Somerset	aShepton Mallet, Somerset, England	z1	d00160000	yShepton Mallet, Somerset	F19820423	USomerset, England	mTKQJ7	fZNCPP
+iPCTJW	pKate	qPickford	gf	b00080000	vCamerton, Somerset	aCamerton, Somerset, England	z1	d19581120	ySouthmead Hospital, Bristol, Gloucestershire.	mCWBA6	fF1NTO	sBDK0B
+iBDK0B	sPCTJW	pJohn	qSage	gm	b18730000~	vTimsbury, Somerset	z1	d19551200	yBathavon, Somerset, England
+iKGEV2	pFlorence Mary	qPickford	gf	b00290000	vCamerton, Somerset	aCamerton, Somerset, England	z1	d19600505	yPontypridd, Glamorgan, Wales	mCWBA6	fF1NTO	sOA5AC
+iOA5AC	sKGEV2	pReuben	qSage	gm	b00040000	vTimsbury, Somerset	z1	d19680000	yEaling, London
+iWUM90	pEmily	qPickford	gf	b00100000	vCamerton, Somerset	aTunley, St Peter, Camerton, Somerset, England	z1	d19560224	yThe Royal Infirmary, Bristol, Gloucestershire.	mCWBA6	fF1NTO	sWD80E
+iWD80E	sWUM90	pWilliam Thomas 	qHumm	gm
+iFGSWZ	pBessie	qPickford	gf	b00060000	vCamerton, Somerset	aTunley, St Peter, Camerton, Somerset, England	z1	d19480000	yBristol, Somerset	mCWBA6	fF1NTO	sAZFWT
+iAZFWT	sFGSWZ	pHenry John Walter	qThomas	gm	b00010000	vSouth Kennington, London	z1	d00250000
+iXEQYX	pEli	qPickford	gm	b00260000	vCamerton, Somerset	aTunley, St Peter, Camerton, Somerset, England	z1	d00070000	yTimsbury, Somerset	mCWBA6	fF1NTO	sY3YK2
+iY3YK2	sXEQYX	pAlice Maud	qEvans	gf	b18861227	vTimsbury, Somerset, England	aTimsbury, Timsbury, Somerset, England	z1	d19751000	yBath, Avon, England	mPQX2T	fX3R77
+iR8BEE	pAda	qPickford	gf	b00060000	vCamerton, Somerset	aTunley, St Peter, Camerton, Somerset, England	z1	d00150000	yBristol, Gloucestershire	mCWBA6	fF1NTO	sW6T4W
+iW6T4W	sR8BEE	pHerbert Alfred Sydney	qThomas	gm	b00190000	vPaddington, London	aMilber and Wolborough, Devon, England	z1	d00090000	yBristol, Gloucestershire
+iNZHC9	pRosina	qPickford	gf	b18890000	vCamerton, Somerset	aTunley, St Peter, Camerton, Somerset, England	z1	d19810300	yMendip, Somerset, England	mCWBA6	fF1NTO	sHZRWS
+iHZRWS	sNZHC9	pElmer	qMcClentic	gm	b18970131	vPelham, Ontario, Canada
+iKS97E	pRowland Anthony	qPickford	gm	b19140205	vTimsbury, Somerset	z1	d00070000	yTimsbury, Somerset	mY3YK2	fXEQYX
+iR4IFS	pLeonard William George	qPickford	gm	b00250000	vTimsbury, Somerset	z1	d00290000	yBath, Somerset	mY3YK2	fXEQYX
+iX3R77	pJohn	qEvans	gm	b18510000	vCambridge, Cambridgeshire, England	aTimsbury, Timsbury, Somerset, England	z1	yCambridge, Cambridgeshire	sPQX2T
+iPQX2T	sX3R77	pElizabeth	qSandall	gf	b18570000	vBourne, Lincolnshire, England	aTimsbury, Timsbury, Somerset, England	z1	d19460100	yBarnet, Middlesex, England
+iQWB2U	pGeorge W	qEvans	gm	b18890000	vTimsbury, Somerset, England	aTimsbury, Timsbury, Somerset, England	mPQX2T	fX3R77
+iEITFF	pFrederick Thomas	qDix	gm	b19221004	vPontypridd, Glamorganshire	aMonmouthshire, Wales	z1	d19940000	ySwindon, Wiltshire, England	mD0O3A	fV0ORW
+iR4A6A	pFlorence Miriam Marjory	qDix	gf	b19130216	vGlamorgan, Gwent, Monmouthshire, United Kingdom	z1	d19970700	yNewport, Glamorgan, Monmouthshire, Shropshire, Staffordshire, England and Wales	mD0O3A	fV0ORW
+iN23AZ	pRonald Bernard	qDix	gm	b19140515	vBedwellty, Monmouthshire	z1	d20050000	yPontllanfraith, Wales	mD0O3A	fV0ORW
+iSBB03	pPercy Arthur	qDix	gm	b19190600	vBedwellty, Wales	z1	d19680300	yEast Glamorgan, Glamorganshire, Wales	mTWFOP	fZ9BBU
+iQ5TAY	pEdith E J	qDix	gf	b19210300	vBedwellty, Monmouthshire	mTWFOP	fZ9BBU
+iOH7DM	pAlbert Oliver	qDix	gm	b19120103	vBedwellty, Monmouthshire, United Kingdom	z1	d19750319	yMerthyr Tydfil, Mid-Glamorgan, Wales	mTWFOP	fZ9BBU
+iC1HDX	pMelville R	qDix	gm	b19220700	vBedwellty, Monmouthshire	mTWFOP	fZ9BBU
+iFWQBW	pFrederick Frank William	qDix	gm	b19050920	vChippenham, Wiltshire, England	aHigh Littleton, Somerset, England	z1	d19920900	yMerthyr Tydfil, Mid Glamorgan, Wales	mTWFOP	fZ9BBU
+iD3JLI	pEvelyn Blanche	qDix	gf	b19030902	vChippenham, Wiltshire	aHigh Littleton, Somerset, England	z1	d19970200	yCaerphilly, Mid Glamorgan, Wales	mTWFOP	fZ9BBU
+iRAJZ0	pRuby May	qDix	gf	b19090212	vHigh Littleton, Somerset, England	aHigh Littleton, Somerset, England	z1	d19961100	yNewport, Glamorgan, Monmouthshire, Shropshire, Staffordshire, England and Wales	mTWFOP	fZ9BBU
+iBLVWM	pGladys Irene	qDix	gf	b19161221	vBedwellty, Monmouthshire, Wales, UK	aWiltshire, England	z1	d20030300	yNorth Somerset, Somerset, England	mTWFOP	fZ9BBU	sWIHRB
+iWIHRB	sBLVWM	pWalter Leonard	qParfitt	gm	b19160223	vRadstock, Somerset	aWiltshire, England	z1	d19830000	yBath, Somerset, England, UK
+iHHTHK	pNellie	qDix	gf	b19080129	v1 Greenbank Terrace, Rotcombe, High Littleton, Somerset, United Kingdom	z1	d20060521	yThornbury, Gloucestershire, England	mTWFOP	fZ9BBU	sW8YR0
+iW8YR0	sHHTHK	pJoseph Frank	qProvis	gm	b19030928	vFoxham, Wiltshire, England	z1	d19891006	ythornbury hospital, Thornbury, Gloucestershire, England	mYKIGP	fJV6FN
+iXKBDN	pMorris Victor Donald	qDix	gm	b19141200	vBedwellty, Monmouthshire, United Kingdom	z1	d19920600	yBlaeneau Gwent, Gwent, Wales	mTWFOP	fZ9BBU
+iQLF5W	pElizabeth Gwendoline	qDix	gf	b19080121	vFarmborough, Somerset	aHigh Littleton, Somerset, England	z1	d19540300	yBromley, Kent	mSL9FM	fKL0JO
+iKUWXJ	pLawrence Cephas	qDix	gm	b19041202	vFarmborough, Somerset	aHigh Littleton, Somerset, England	z1	d19810101	yBrent, Greater London	mSL9FM	fKL0JO
+iJ0V8M	pEric John	qDix	gm	b19060210	vFarmborough, Somerset	aHigh Littleton, Somerset, England	z1	d19830100	yBournemouth, Dorset	mSL9FM	fKL0JO
+iYJTRQ	pHarold Thomas	qDix	gm	b19091014	vFarmborough, Somerset	aHigh Littleton, Somerset, England	z1	d19780411	yBournemouth, Dorset	mSL9FM	fKL0JO
+iVN16R	pLydia Myra	qDix	gm	b19121202	vMerthyr Tydfil, Glamorgan	z1	d19930600	yCheltenham, Gloucestershire	mSL9FM	fKL0JO
+iDV2E1	pPhyllis Priscilla	qDix	gf	b19170314	vPontypridd, Glamorgan	z1	d19830500	yPoole General Hospital, Dorset	mSL9FM	fKL0JO
+iD1CLX	pMiriam R	qDix	gf	b19150100	vBournemouth, Hampshire, England	mSL9FM	fKL0JO
+iRZHLM	pMOSES	qHEAL	gm	b17540000	vCamerton, Somerset, England	z1	d18070800	yCamerton, Somerset, England
+iMYCCX	pPheobe 	qCottle	gf	b17650000	vCamerton, Somerset, , England	z1	d18161215
+iLB68S	pBlanch Adelaide	qDando	gf	b18880000	vBristol	aBristol, Clifton, Clifton, Gloucestershire, England	z1	d19320000	yBedwellty, Monmouthshire, Wales	mRMD9T	fB0984
+iJ36EZ	pHiram Walter	qDix	gm	b19150301	vReg. Bedwellty.	z1	d19750000	yMendip, Somerset, England	mLB68S	fPNC8W
+iKJKGN	pFrederick J	qDix	gm	b19200900	vPontypridd, Glamorganshire	z1	d19200900	yPontypridd, Glamorgan	mLB68S	fPNC8W
+iBLEEX	pAnita C R	qDix	gf	b19301200	vNewport M, Glamorganshire	z1	d19301200	yNewport M., Monmouthshire	mLB68S	fPNC8W
+iT2M8E	pColumbine A R	qDix	gf	b19310830	vNewport Mons	aDorset, England	z1	y=WILLIAMS	mLB68S	fPNC8W	XSP22S	YPNC8W
+iLHTMG	pRonald J H	qDix	gm	b19230123	aDorset, England	mSP22S	fPNC8W
+iB0984	pThomas	qDando	gm	b18650000~	vPaulton, Somerset.	aBristol, Clifton, Clifton, Gloucestershire, England	z1	d19120214	yGeneral Hospital, Bristol, Gloucestershire.	sRMD9T
+iRMD9T	sB0984	pAdelaide	qMiles	gf	b18640219	vTimsbury, Somerset, England	aSomerset, England	z1	d18990000	yReg. Bristol.	mHMM64	fJVXQ5
+iMB5VF	pAlice Elizabeth E.	qDando	gf	b18870600	vBedminster	aBristol, Clifton, Clifton, Gloucestershire, England	mRMD9T	fB0984
+iBU15M	pArthur Raymond	qMiles	gm	b19101219	vBristol, Gloucestershire	aBristol, Gloucestershire, England	z1	d19800300	yBristol, Avon, England	mNN85L	fV8DE4
+iS5OZ4	pCharles Godfrey	qMiles	gm	b19200923	vMidsomer Norton, Somerset.	aSomerset, England	z1	d00100000	yPortsmouth, Hampshire	UBothenhampton, West Dorset District, Dorset, England	mHLT3Y	fLM5HG	sQMI42
+iQMI42	sS5OZ4	pBarbara Joyce	qMorris	gf	b19180000	vBath, Somerset	z1	d00230000	yDorchester, Dorset	UBothenhampton, West Dorset District, Dorset, England
+iGNHNM	pViolet Grace	qMiles	gf	b00290000	vMidsomer Norton, Somerset	aSomerset, England	mHLT3Y	fLM5HG
+iT4NVP	pRobert	qKeevill	gm	b18520000	vMidsomer Norton, Somerset, England	z1	d19220700	yMidsomer Norton, Somerset, England	sNE3R9
+iNE3R9	sT4NVP	pElizabeth Ann	qChivers	gf	b18520000	vMidsomer Norton, Somerset, England	z1	d19250800	yMidsomer Norton, Somerset, England
+iDUU6P	pLilian	qKeevill	gf	b18910000	vMidsomer Norton, Somerset, England	mNE3R9	fT4NVP
+iXG0QA	pHerbert Stanley	qKeevill	gm	b18950000	vMidsomer Norton, Somerset, England	mNE3R9	fT4NVP
+iKG525	pMargaret Lucy	qKeevill	gf	b18921215	vMidsomer Norton, Somerset, England	z1	d19250000	yPaulton, Somerset	mNE3R9	fT4NVP
+iTCI7P	pWilliam Hickmott	qKeevill	gm	b18840711	vMidsomer Norton, Somerset, England	z1	d18850400	yMidsomer Norton, Somerset, England	mNE3R9	fT4NVP
+iPYJ9K	pCharles Francis	qKeevill	gm	b18800000	vBedminster, Somerset, England	z1	d19060200	yMidsomer Norton, Somerset, England	mNE3R9	fT4NVP
+iSSOSA	pAmelia Ann	qKeevill	gf	b18821225	vMidsomer Norton, Somerset, England	z1	d19370300	yBath, Somerset, England	mNE3R9	fT4NVP
+iKXU8U	pWilliam John	qKeevill	gm	b18860624	vMidsomer Norton, Somerset, England	z1	d19470900	yWells, Somerset, England	mNE3R9	fT4NVP
+iTERW7	pDorita	qMiles	gf	b19130811	vBristol, Somerset, England	aGloucestershire, England	z1	d19941200	yFishponds, Bristol, Gloucestershire, England	mZ500L	fUEDPS	sJN9VL
+iJN9VL	sTERW7	pClifford Robert	qAlderwick	gm	b19080413	vKingswood, Bristol, Gloucestershire.	z1	d19550000	ySouthmead, Bristol, Gloucestershire.
+iHNZZ6	pThomas W	qMiles	gm	b19190805	vReg. Clutton.	aSomerset, England	mKH9YG	fUOHAA
+iSDTKC	pAlbert J	qMiles	gm	b19210517	aSomerset, England	mKH9YG	fUOHAA
+iGWE0J	pEdwin J	qMiles	gm	b19230901	aSomerset, England	z1	d19890600	yBath, Avon, England	mCJ74A	fXXWOC	sE1LQ9
+iE1LQ9	sGWE0J	pGlenys E	qBridges	gf
+iBDWCY	pFrank	qBond	gm	b18671200	vWincanton, Somerset, England	aWincanton, Somerset, England	z1	d19070700	yWincanton, Somerset, England	fM9BS8	XTO3XL
+iYR67F	pDoris Winifred	qBond	gf	b19030102	vWincanton, Somerset, England	z1	d19760228	yWeston-super-Mare, Somerset, England	mN11SG	fBDWCY
+iCHT27	pHarry Edgar	qBond	gm	b19040314	vWincanton, Somerset, England	z1	d19870100	yBristol, Gloucestershire, England	mN11SG	fBDWCY
+iLSB92	pCecil Frank	qBond	gm	b19050924	vWincanton, Somerset, England	mN11SG	fBDWCY
+iCDCA8	pCecil Frank	qBond	gm	b19011029	vWincanton, Somerset, England	z1	d19011000	yWincanton, Somerset, England	mN11SG	fBDWCY
+iVJCQM	pAlbert Edward	qSweet	gm	b19110106	vStoney Stoke, Somerset, England	z1	d19670400	yBristol, Gloucestershire, England	mN11SG	fBJUH9
+iTO3XL	pAnn	qBond	gf	b18300000~	vWincanton, Somerset, England	aWincanton, Somerset, England
+iZ0TTT	pAlbert E	qBond	gm	b18710000~	vWincanton, Somerset, England	aWincanton, Somerset, England	fM9BS8	XTO3XL
+iM9BS8	pWilliam	qBond	gm	b18290000~	vWincanton, Somerset, England
+iVVC5W	pArthur	qBond	gm	b18660000~	vWincanton, Somerset, England	fM9BS8
+iA86WF	pJohn	qBond	gm	b18480000~	vWincanton, Somerset, England	fM9BS8
+iWQP86	pEmily	qBond	gf	b18520000~	vWincanton, Somerset, England	fM9BS8
+iT0KUN	pLouisa	qBond	gf	b18540000~	vWincanton, Somerset, England	fM9BS8
+iQUEGD	pHenry	qBond	gm	b18570000~	vWincanton, Somerset, England	fM9BS8
+iRXCZG	pThomas	qBond	gm	b18610000~	vWincanton, Somerset, England	fM9BS8
+iAS1DO	pEdwin	qBond	gm	b18700000~	vWincanton, Somerset, England	fM9BS8
+iKFMK1	pJames	qPickford	gm	b18340000~	vCamerton, Somerset	z1	d18980000	yCamerton, Somerset	sMGH6E
+iMGH6E	sKFMK1	pElizabeth	qAlmond or Alman	gf	b18370000~	vRadstock, Somerset	z1	d19180000	yCamerton, Somerset
+iGB3NI	pAlexander	qWhetham	gm	b18880000~	vNotting Hill, London, England	aHanwell, Hanwell, Hanwell, Middlesex, England	z1	d18930719	yHanwell, Brentford, Acton, Middlesex, England	mEKM1R	fCY4OI
+iXB690	pMontague	qWhetham	gm	b18890000~	vHanwell, Middlesex, England	aHanwell, Hanwell, Hanwell, Middlesex, England	z1	d19011015	yHanwell, Brentford, Acton, Middlesex, England	F19011018	ULondon, England	mEKM1R	fCY4OI
+iBAJ3E	pMary Ellen	qWhetham	gf	b18870000~	vHanwell, Middlesex, England	aHanwell, Hanwell, Middlesex, England	mEKM1R	fCY4OI
+iRIJAS	pWilfred	qWhetham	gm	vHanwell, Middlesex, England	z1	d18901221	yHanwell, Brentford, Acton, Middlesex, England	mEKM1R	fCY4OI
+iASYIO	pLewis	qWhetham	gm	vBrentford, Middlesex, England	z1	d18930814	yHanwell, Brentford, Acton, Middlesex, England	mEKM1R	fCY4OI
+iVMCY1	pWilliam	qAlexander	gm	vStanton Prior, Bath, Somerset, England	z1	d18711006	yStanton Prior, Bath, Somerset, England	sI63FJ
+iI63FJ	sVMCY1	pElizabeth	qBrown	gf	b18000000	vStanton Prior, Somerset, England	z1	d18380600	yStanton Prior, Somerset, England
+iBBL8B	pElizabeth	qBrown	gf	b18000000	vStanton Prior, Somerset, England	z1	d18380600	yStanton Prior, Somerset, England
+iE8CQ8	pErnest Sidney Alexander	qWest	gm	b18920000	vBath, Bath and North East Somerset Unitary Authority, Somerset, England	aTwerton, Twerton, Somerset, England	z1	d19161005	ySalonika, Thessaloniki, Central Macedonia, Greece	ULachanas, Regional unit of Thessaloniki, Central Macedonia, Greece	mQH29W	fBABK4	sJ1YLB
+iJ1YLB	sE8CQ8	pMargaret L	qChandler	gf	b18870415	aBath
+iPRQJZ	pGladys Mary	qWest	gf	b18950000	vTwerton, Bath	aTwerton, Twerton, Somerset, England	z1	d19611018	yBath, Somerset, England	F19611023	USomerset, England	mQH29W	fBABK4	sEJKEQ
+iEJKEQ	sPRQJZ	pCharles Henry James	qSimmons	gm	b18970321	vBath	aBath, Somerset, England	z1	d19810700	yBath, Avon, England	mWFGTR	fM132P
+iWDC81	pFrederick Charles	qWest	gm	b18970000	vBath	mQH29W	fBABK4
+iYZRJX	pGeorge Rodney	qSmith	gm	mVKYXP	fLH7LA
+iNKYUV	pJohn Douglas Jeff	qSmith	gm	mVKYXP	fLH7LA
+iN1TUH	pElla Naomi Jean	qSmith	gf	mVKYXP	fLH7LA
+iNFY8P	pMatthew	qGoodwin	gm	b18490700	vAston Ingham, Herefordshire, England	z1	d19260100	yGloucester, Gloucestershire, England	sK4TR3
+iK4TR3	sNFY8P	pMary Ann	qBoughton	gf	b18511000	vLeonard Stanley, Gloucestershire, England	z1	yGloucester, Gloucestershire, England
+iHLD89	pJohn Leonard	qGoodwin	gm	b18810400	vGloucester, Gloucestershire, England	z1	d18960300	yGloucester, Gloucestershire, England	mK4TR3	fNFY8P
+iN6ZAF	pNorah Annie	qGoodwin	gf	vHereford, Herefordshire, England	mK4TR3	fNFY8P
+iJTQBD	pNancy Mabel	qGoodwin	gf	b19050700	vGloucester, Gloucestershire, England	z1	d19340700	yStroud, Gloucestershire, England	mEEXQB	fBZSAB
+iAT4UE	pBarry	qWilliams	gm	mFL95K	fIG49M
+iTF6JW	pGladys Mary	qSage	gf	b18980000	vTimsbury, Somerset	z1	d19670600	yBristol, Gloucestershire, England	mPCTJW	fBDK0B
+iST83S	pEvelyn Blanche	qSage	gf	b19010331	vTimsbury, Somerset	z1	d19820900	yBristol, Avon, England	mPCTJW	fBDK0B
+iYLPXM	pAgnes May	qSage	gf	b19070000~	vTimsbury, Somerset	z1	d19870000	yBristol, Avon	mPCTJW	fBDK0B
+iZBW3W	pArthur Horace	qSage	gm	b00310000	vTimsbury, Somerset	z1	d19660300	yCanterbury, Kent, England	mKGEV2	fOA5AC
+iT6ZBX	pReuben Cecil	qSage	gm	b00300000	vTimsbury, Somerset	z1	d19710000	yEaling, London	mKGEV2	fOA5AC
+iT12YB	pCynthia Flossie	qSage	gf	b00220000	vTimsbury, Somerset	z1	yHuntingdon, Cambridgeshire	mKGEV2	fOA5AC
+iKNVNG	pNellie	qSage	gf	b00070000	vTimsbury, Somerset	z1	d00120000	yTrealaw, Glamorgan	mKGEV2	fOA5AC
+iCKSS7	pIris May	qSage	gf	b00260000	vPontypridd, Glamorganshire	z1	d19950526	yTrealaw, Glamorgan	mKGEV2	fOA5AC
+iUNPRP	pBessie Phyllis May	qThomas	gf	b19100503	vTwerton, Bath, Somerset	z1	d19100000	yTwerton, Bath, Somerset	mFGSWZ	fAZFWT
+iBJG47	pDoris Violet	qThomas	gf	b00040000	vTwerton, Bath, Somerset	aCaerphilly Glam	z1	d19200000~	F19200413	UBettws, Glamorganshire, Wales	mFGSWZ	fAZFWT
+iFJL3W	pClarison Evelyn	qThomas	gf	b19130805	aGloucestershire, England	z1	d19770100	yHereford, Hereford and Worcester, England	mFGSWZ	fAZFWT
+iN77BQ	pJohn William Albert	qThomas	gm	b19150828	aCaerphilly Glam	mFGSWZ	fAZFWT
+iR4L3R	pChristina	qThomas	gf	mR8BEE	fW6T4W
+iWV5KD	pPhyllis Ada Elizabeth	qThomas	gf	b19130827	vReg. Bristol.	z1	d19881000	yBristol, Gloucestershire, England	mR8BEE	fW6T4W	sHNNRH
+iHNNRH	sWV5KD	pCecil Wilson	qHaines	gm	b19120329	vReg. Bristol.	z1	d19830000	yReg. Bristol.
+iDEQBG	pAlonzo	qMcClentic	gm	vCanada	mNZHC9	fHZRWS
+iX7CP1	pReginald	qMcClentic	gm	vCanada	mNZHC9	fHZRWS
+iSDWA6	pRobert	qMcClentic	gm	vCanada	mNZHC9	fHZRWS
+iC6S9G	pElmer Leslie	qMcClentic	gm	b19200000~	vOntario	z1	d19341112	ySimcoe, Ontario, Canada	mNZHC9	fHZRWS
+iTKQJ7	pHarrriett Emma	qBrodrip	gf	b18750116	vBeaufort, Breconshire, South Wales	aShepton Mallet, Somerset, England	z1	d19481000	yshepton mallet, somerset,england	sZNCPP
+iZNCPP	sTKQJ7	pWilliam	qTucker	gm	b00020000	vDrayton, Somerset, England	aShepton Mallet, Somerset, England	z1	d19421222	yshepton mallet, somerset,england
+iGLMK1	pFlorence Annie	qTucker	gf	b19021113	vShepton Mallet, Somerset, England	aShepton Mallet, Somerset, England	z1	d19750829	yShepton Mallet, Somerset, England	mTKQJ7	fZNCPP
+iC95ZA	pThomas Francis	qTucker	gm	b18960508	vShepton Mallet, Somerset, England	aShepton Mallet, Somerset, England	z1	d19270522	ychurch street, Croscombe, Somerset, England	mTKQJ7	fZNCPP
+iC7CX6	pAdelaide Dorcus	qAxford	gf	b19250314	vAberdare, Glamorgan, Wales	z1	d00210000	yKingston, Ontario, Canada	mDHDVM	fU37K2
+iVPHJY	pGussie	qFry	gf	b18960000~	vBristol, Hanham, Gloucestershire	mDHDVM	fU37K2
+iDIBHY	pJohn	qFry	gm	b18970000~	vBristol, Hanham, Gloucestershire	mDHDVM	fU37K2
+iMP930	pAlfred Leslie	qAxford	gm	b19130900	vNewport, Monmouthshire, United Kingdom	z1	yDover, Kent, England	mDHDVM	fU37K2
+iT60WW	pDesdemona Annie Agnes	qAxford	gf	b00040000	vAbercumboi, Aberdare, Wales	z1	d00130000	yKingston, Ontario, Canada	mDHDVM	fU37K2
+iTOPYZ	pRuth Naomi	qAxford	gf	b00210000	vAmbercumboi, Aberdare, Wales	z1	d20000500	yCanterbury, Kent, England	mDHDVM	fU37K2
+iG2WKQ	pMiriam	qAxford	gf	b19230324	vMerthyr Tydfil, Wales	z1	d19800300	yDover, Kent, England	mDHDVM	fU37K2
+iND50N	pCyril Theodore	qAxford	gm	b19050300	vHigh Littleton, Somerset.	aKingswood, Somerset, England	z1	d19111200	yTimsbury	mDHDVM	fU37K2
+iO5WVC	pDorothy May	qAxford	gf	b19060421	vHigh Littleton, Somerset	aKingswood, Somerset, England	z1	yDover, Kent, England	mDHDVM	fU37K2
+iHCSK5	pEmrys	qAxford	gm	b00220000	vMountain Ash, Glamorgan, Wales	aKingswood, Somerset, England	z1	d19760300	yThanet, Kent, England	mDHDVM	fU37K2
+iGB19Y	pMary	qAxford	gf	b19290000	vReg. Eastry.	z1	d19290300	yEastry, Kent, England	mDHDVM	fU37K2
+iK1C3P	pStanley	qAxford	gm	b19290000	vReg. Eastry.	z1	d19290300	yReg. Eastry.	mDHDVM	fU37K2
+iUBIOM	pEmil	qAxford	gm	vPontypridd, Glamorgan	z1	yPontypridd, Glamorganshire	mDHDVM	fU37K2
+iR7QTY	pSidney J. E.	qAxford	gm	b19141200	vNewport, Monmouthshire, United Kingdom	z1	d19371200	yCanterbury, Kent, England	mDHDVM	fU37K2
+iQZ1EA	pWalter Frederick Edgar	qSelvidge	gm	b00120000	vHigh Littleton, Somerset, England	z1	d19120000~	mAID34	fVDTPY
+iQOBNN	pRonald Lloyd 	qSelvidge	gm	b19140000	vClutton, Somerset, England	mAID34	fVDTPY
+iS1E2V	pThomas Leonard	qSalvidge	gm	b19071119	vClutton, Somerset, England	z1	d19750100	yNewport, Gwent, Wales	mAID34	fVDTPY
+iOUX28	pClifford Henry	qJacka	gm	b19170421	vChristchurch, Hampshire	aHampshire, England	z1	d19410826	mHHRZ2	fZR6QB
+iOJEEZ	pJoseph	qSummers	gm	b18431112	vClifton, Gloucestershire	z1	d19220322	yBath, Somerset, England	sV0PU5
+iV0PU5	sOJEEZ	pSarah	qHyatt	gf	b18450416	vCorsley, Wiltshire, England	z1	d19090000	yDunkerton Somerset, England
+iLGJRU	pGeorge Henry	qSperring	gm	b18220000~	vCamerton, Somerset, England	z1	d18950300	yClutton, Midsomer Norton, Somerset, United Kingdom	sQHM29
+iQHM29	sLGJRU	pSarah	qWhitcomb	gf	b18290505	vTimsbury, Somerset, England	z1	yClutton, Somerset, England
+iOVXPB	pAlbert Edward	qCooper	gm	b19061224	vLutton, Lincolnshire, England	z1	d19600301	yBourne, Lincolnshire, England	mWBYWI	fYMUVF
+iRAL3E	pGeorge Henry	qCooper	gm	b19101214	vTydd, Holbeach, Lincolnshire, England	z1	d19641228	yThe Memorial Hospital, Peterborough, Northamptonshire, England 	mWBYWI	fYMUVF
+iBW5RH	pThomas Arthur	qCooper	gm	b19020711	vBristol, Gloucestershire, England	z1	d19720600	yBourne, Lincolnshire, England	mWBYWI	fYMUVF
+iPK3G5	pElsie Amelia	qBrewer	gf	b19041117	vKeynsham, Somerset	aBurnett and Keynsham, Somerset, England	z1	d00250000	yBakewell, Derbyshire, England	mCZ4DX	fZYVLQ
+iZZRWF	pWilliam Henry	qBrewer	gm	b19071124	vKeynsham, Somerset	aBurnett and Keynsham, Somerset, England	z1	d19760709	y21 Dapps Hill, Keynsham, Somerset, England	mCZ4DX	fZYVLQ
+iH60FN	pViolet Caroline	qWarner	gf	b19220820	vBurton, Staffordshire	aDerbyshire, England	z1	d19991008	yDerby, Derbyshire, England	mNO0R4	fNKF4D
+iY7KM7	pFlossie M	qWarner	gf	b19190400	vBurton, Staffordshire	z1	d00050000	yDerby, Derbyshire, England	mNO0R4	fNKF4D
+iU41KR	pCharles	qJenkins	gm	b18340000	vGloucester, Gloucestershire, England	aSt John the Baptist, Gloucestershire, England	sX31CX
+iX31CX	sU41KR	pEmily	qJenkins	gf	b18570000	vNk, Somerset, England	aSt John the Baptist, Gloucestershire, England
+iWNTWT	pCharles	qJenkins	gm	b18660000	vGloucester, Gloucestershire, England	aSt John the Baptist, Gloucestershire, England	mX31CX	fU41KR
+iYUQH6	pJohn	qJenkins	gm	b18790000	vGloucester, Gloucestershire, England	aSt John the Baptist, Gloucestershire, England	mX31CX	fU41KR
+iK6IAG	pAlice M	qJenkins	gf	b18810000	vGloucester, Gloucestershire, England	aSt John the Baptist, Gloucestershire, England	mX31CX	fU41KR
+iWDC39	pJames	qJenkins	gm	b18830000	vGloucester, Gloucestershire, England	aSt John the Baptist, Gloucestershire, England	mX31CX	fU41KR
+iI2ZD4	pBarbara Gladys Marion	qRaine	gf	b19270729	vShellards Road Longwell Green	aGloucestershire, England	z1	d19900716	yBristol, Gloucestershire, England	F19900726	USomerset, England	mAD83Q	fCW456	sU4FIC
+iU4FIC	sI2ZD4	pDouglas Cecil Henry	qSkidmore	gm	b19181223	vKeynsham, Somerset	aBristol, Gloucestershire, England, United Kingdom	z1	d20140929	yBristol, Avon, England
+iJ8I6V	pDonald Martin	qRaine	lRaine	gm	b19280809	vKeynsham, Gloucestershire	aGloucestershire, England	z1	d19970400	ySouth Gloucester, England and Wales	mAD83Q	fCW456	sM68G9
+iM68G9	sJ8I6V	pMaureen J	qHendy	gf
+iBW8KX	pKathleen Mary	qRaine	gf	b19300430	vKeynsham, Devon/Cornwall/Seilly. Dorset/Somerset	z1	d19970900	ySouth Gloucester, England and Wales	mAD83Q	fCW456
+iDG0H9	pPercy Jackson P	qRaine	gm	b19210000	z1	d19780300	yBristol, Avon, England	mAD83Q	fCW456
+iTLVUG	pMartyn	qSkidmore	gm	mI2ZD4	fU4FIC
+iVT8BQ	pDean Robert	qRaine	gm	b19580918	vKingswood, Gloucestershire	z1	d20070410	yBristol, Gloucestershire, England	fJ8I6V
+iIRHDY	pSidney Herbert	qWest	gm	b19150000~	vBath, Somerset, United Kingdom	aSomerset, England	z1	d00150000	UBohain-en-Vermandois, Departement de l'Aisne, Picardie, France	mJ1YLB	fE8CQ8	sE391O
+iE391O	sIRHDY	pLilian Amelia	qParry	gf	b19170524	vTaunton, Somerset, England	z1	d20111127	yBath, Somerset, England
+iG7AH9	pMary	qSimmons	gf	b19250319	aSomerset, England	mPRQJZ	fEJKEQ
+iM132P	pErnest Charles	qSimmons	gm	vBatheaston, Somerset, England	aBath, Somerset, England	z1	d19350227	yBath, Somerset, England	sWFGTR
+iWFGTR	sM132P	pHarriet Jane	qGarrett	gf	b18690322	vBath, Somerset, England	aLyncombe, Somerset, England	z1	d00240000	yBath, Somerset, England	UBath, Bath and North East Somerset Unitary Authority, Somerset, England	mDRSLB	fVVYXN
+iG58P8	pErnest Thomas	qSimmons	gm	b19090000~	vWinterbourne, Gloucestershire	aWinterbourne, Gloucestershire, England	mWFGTR	fM132P
+iQW2WO	pLilian Ellen Lucy	qSimmons	gf	vBath, Somerset, England	aBath, Somerset, England	mWFGTR	fM132P
+iE2XQ6	pElsie Ada	qSimmons	gf	b19000000~	vBath, Somerset, England	aBath, Somerset, England	z1	d19810816	yMelksham Wilts	mWFGTR	fM132P
+iC04E7	pSarah	qGarrett	gf	b18680000~	vBath, Somerset, England	aLyncombe, Somerset, England	mDRSLB	fVVYXN
+iVVYXN	pHenry	qGarrett	gm	b18310000~	vWarminster, Wiltshire, England	aLyncombe, Somerset, England	sDRSLB
+iDRSLB	sVVYXN	pCarry	qGarrett	gf	b18380000~	vWarminster, Wiltshire, England	aLyncombe, Somerset, England
+iA4AXL	pDoris Victoria Caroline	qLuckes	gf	b19021220	vBristol	aBristol, Gloucestershire, England	z1	d19870400	yBristol, Avon, England	mXD1HH	fXWVYI	sUNYZM
+iUNYZM	sA4AXL	pWilliam Charles Caldicott	qEvans	gm	b19070510	vBedminster, Bristol, Somerset	aBristol, Gloucestershire, England	z1	d19860100	yBristol, Avon, England	mORUBF	fMGZS8
+iY1B25	pIris Eileen Alexandra	qLuckes	gf	b19120510	vBristol	aGloucestershire, England	z1	d19971000	yNorth Somerset, Somerset, England	mXD1HH	fXWVYI	sHV6AQ
+iHV6AQ	sY1B25	pJack	qSouth	gm	b19160427	z1	d19980400	yBristol, Bristol, England
+iZWQXJ	pAlexander	qLuckes	gm	b19090000	vBristol, Gloucestershire	z1	d19090000	yBristol, Gloucestershire	mXD1HH	fXWVYI
+iV21ME	pJames	qLuckes	gm	b18360000	vMinehead Somerset	z1	d18910000	yBridgwater, Somerset, England
+iRV8JK	pGordon Roy	qPanting	gm	b18990514	vCrediton, Devon, England	aCrediton, Crediton, Devon, England	z1	d19700700	yBristol, Gloucestershire, England	UEastville, Bristol Unitary Authority, Bristol, England	mBMV0C	fV58UH	sZD8DM
+iZD8DM	sRV8JK	pDorothy May	qPotter	gf	b19070518	vDevon, England	aGloucestershire, England	z1	d19940700	yWest Super Mare, Somerset, England
+iFJFI7	pJohn Caldicott	qEvans	gm	b19100000~	vBedminster, Bristol, Somerset	aBristol, Gloucestershire, England	mORUBF	fMGZS8
+iMGZS8	pWilliam Caldicott	qEvans	gm	b18750000~	vLlandegley, Radnorshire	aBristol, Gloucestershire, England	sORUBF
+iORUBF	sMGZS8	pAmelia Alice	qEvans	gf	b18760000~	vBristol, Gloucestershire	aBristol, Gloucestershire, England
+iV58UH	pRobert	qPanting	gm	vLedbury, Herefordshire, England	aLedbury, Herefordshire, England	z1	d19320700	yCrediton, Devon, England	fWUSUC	sBMV0C
+iBMV0C	sV58UH	pMinnie	qBrooks	gf	b18590309	vTeignmouth, Devon, England	aBrixham, Brixham, Brixham, Devon, England
+iYOY6Y	pAnnie	qPanting	gf	b18911105	vTotnes, Devon, England	aCrediton, Crediton, Devon, England	z1	d19630625	yExeter, Devon, England	mBMV0C	fV58UH	sS3BXN
+iS3BXN	sYOY6Y	pArthur	qHardwidge	gm	b18891201	vCompton Bishop, Somerset	z1	d19431200	yDevon Central, Devon, England
+iWUSUC	pJames	qPanting	gm	b18200000	vLedbury, Herefordshire, England	aLedbury, Herefordshire, England	z1	yHerefordshire, United Kingdom
+iLFUAG	pMary	qPanting	gf	b18490000	vLedbury, Herefordshire, England	aLedbury, Herefordshire, England	fWUSUC
+iG004Q	pRobert (Bob) Arthur	qHardwidge	gm	b19190802	vMalaysia	z1	d20161100	yIsle of Mull, Scotland	mYOY6Y	fS3BXN
+iU25RY	pJohn Gordon	qHardwidge	gm	b19210000	vPenang	aExeter, Devon, England, United Kingdom	z1	d20120526	yExeter, Devon, England	mYOY6Y	fS3BXN	sCNEW8
+iCNEW8	sU25RY	pDaisy Muriel	qWakeham	lWakeham	gf	b19190109	vSt Thomas, Devonshire	z1	d19950500	yExeter, Devon, England	mHR6MF	fFCD2C
+iNQ1RU	pBetty I	qHardwidge	gf	b19220600	vS Molton, Devonshire	mYOY6Y	fS3BXN
+iFCD2C	pFred	qWakeham	gm	b00270000	vTiverton, Devon, England	z1	d19620726	yExeter, Devon, England	sHR6MF
+iHR6MF	sFCD2C	pAlice	qTUCKER	gf	b18821130	vBovey Tracey, Devon, England	z1	d19730114	yExeter, Devon, England
+iJ3IIK	pWilliam	qCarter	gm	b17890000	vPaulton, Somerset, England	z1	d18460916	yPaulton Somerset
+iOXRXP	JDNA	pGeorge  	qDix	gm	b18300000~	vHigh Littleton, Somerset, England	aHigh Littleton, Somerset, England	z1	d19031010	yMearns, High Littleton, Somerset, United Kingdom	mPRIFE	fCMW2R	sO77PJ
+iO77PJ	sOXRXP	pJemima	qBlanning	gf	b18310607	vBishops Sutton, Somerset, England	aHigh Littleton, Somerset, England	z1	d18981127	yHigh Littleton, Somerset, United Kingdom
+iCZ59Z	pPriscilla	qDix	gf	b18600920	vHigh Littleton, Somerset, England	aHigh Littleton, Somerset, England	z1	d19320700	yBristol, Gloucestershire, England	mO77PJ	fOXRXP
+iIMTTU	pLavinia Minnie	qDix	gf	b18800328	vHigh Littleton, Somerset, England	z1	d18820200	yHigh Littleton, Somerset, England	mO77PJ	fOXRXP
+iVQLUE	pOliver Austin	qDix	gm	b18720915	vHigh Littleton, Somerset, England	z1	d19440407	yHigh Littleton, Somerset, , England	mO77PJ	fOXRXP
+iO57GL	pEmily	qDix	gf	b18671204	vHigh Littleton, Somerset, England	aSomerset, England	z1	d19581224	yHigh Littleton, Somerset.	mO77PJ	fOXRXP
+iI082O	pSmith	qDix	gm	b18620100	vHigh Littleton, Somerset, England	aSomerset, England	z1	d19300100	yMerthyr Tydfil, Glamorgan, Wales	mO77PJ	fOXRXP
+iKMML2	pLydia	qDix	gf	b18570400	vHigh Littleton, Somerset, England	aHigh Littleton, Somerset, England	z1	d19351226	yBarnstaple, Devon, England	mO77PJ	fOXRXP
+iQOSRN	pOliver Austen	qDix	gm	b18640000	vHigh Littleton	z1	d18720000>	yhigh Littleton	mO77PJ	fOXRXP
+iF301M	pOliver A	qDix	gm	b18640000	vClutton, Somerset	z1	d18640000	yClutton, Somerset	mO77PJ	fOXRXP
+iHU2VF	pAscenia L	qDix	gf	b18620000	v Somerset, England	z1	d19480000	y Somerset, England	mO77PJ	fOXRXP
+iJGDL8	pWilfred George	qDix	gm	b19200213	vClutton, Somerset	mYGB4N	fU6NI7
+iNZL4A	pEmily Jane	qDix	gf	b19210220	vClutton, Somerset England	z1	d19980500	yBoston, Lincolnshire, England	mYGB4N	fU6NI7
+iCQPW8	pLeslie James	qDix	gm	b19230421	vClutton, Somerset, England	z1	d19751106	yBracknell, Berkshire, , England	mYGB4N	fU6NI7
+iC3G6P	pWilliam	qNeale	gm	b18270000~	vKeynsham, Somerset, England	aBurnett and Keynsham, Somerset, England	z1	d00230000	yWorkhouse, Keynsham, Somerset, England	mNPR3Y	fLLM73	sI4WNY
+iI4WNY	sC3G6P	pMary	qCarpenter	gf	b18260000	vSomerset, England	z1	yKeynsham, Somerset, United Kingdom	mX8TT3	fTXLP4
+iZZ4DB	pEdward	qNeal	gm	b18610000~	vTemple St, Keynsham	aBurnett and Keynsham, Somerset, England	fC3G6P
+iVV0FQ	pJames	qNeal	gm	b18630000~	vTemple St, Keynsham	aBurnett and Keynsham, Somerset, England	fC3G6P
+iTJ6H5	pFrank	qNeal	gm	b18750000~	vTemple St, Keynsham	aBurnett and Keynsham, Somerset, England	fC3G6P
+iWAZWU	pJames William	qAxford	gm	b18540900	vCodford, Wiltshire, England	z1	d19261200	yPaulton, Somerset, England	mU43OM	fLAWAC	sH0OQX
+iH0OQX	sWAZWU	pEllen	qClark	gf	b18590000	vShaftsbury, Dorset, England	z1	d19360300	yShepton Mallet, Somerset, England
+iV2RQF	pBeatrice E	qMiles	gf	b18880000	vBedminster, Somerset, England	aSt John, Bedminster, Somerset, England	mAFHVY	fPIQFG
+iEQ4BT	pThomas	qLewis	gm	b18210000	vTimsbury, Somerset, England	z1	yTimsbury, Somerset, England	sX4FW9
+iX4FW9	sEQ4BT	pSarah	qVenting	gf	b18210000~	vFarrington	z1	d18940000	yTimsbury, Somerset, , England
+iPOJSV	pJulia	qLewis	gf	b18600000	vTimsbury, Somerset, England	mX4FW9	fEQ4BT
+iDNW3A	pRobert	qLewis	gm	b18520000~	vTimsbury, Somerset, England	mX4FW9	fEQ4BT
+iED1UU	pSusannah	qLewis	gf	b18660000~	vTimsbury, Somerset, England	mX4FW9	fEQ4BT
+iKOM65	pSamuel	qLewis	gm	b18620000~	vTimsbury, Somerset, England	mX4FW9	fEQ4BT
+iMDLME	pElizabeth	qLewis	gf	b18440000~	vTimsbury	mX4FW9	fEQ4BT
+iWI9A5	pJulia	qLewis	gf	b18600000~	vTimsbury, Somerset, England	z1	yTimsbury, Somerset	mX4FW9	fEQ4BT
+iZVKID	pAnn	qLewis	gf	b18550000	vTimsbury, Somerset, England	mX4FW9	fEQ4BT
+iWMRRG	pSarah Jane	qLewis	gf	b18450000~	vTimsbury	mX4FW9	fEQ4BT
+iMYKIJ	pRobert William	qLewis	gm	b18510000~	vTimsbury	z1	d18510331	yTimsbury, Somerset.	mX4FW9	fEQ4BT
+iWXXHU	pJohn	qLewis	gm	vTimsbury, Somerset	mX4FW9	fEQ4BT
+iOYX4B	pAnn Parfitt	qBridges	gf	b18360000	vTimsbury, Somerset, England	z1	yClutton, Somerset
+iU0K10	pWilliam	qPayne	gm	b18090000	vMarksbury, Somerset, England	aLyncombe and Widcome, Somerset, England	mQTDJI	fQKDA2
+iLLM73	pWilliam	qNEAL	gm	b17970827	vWalcott, Somerset	z1	d18640100	yBETWEEN 1839 AND 1841	sNPR3Y
+iNPR3Y	sLLM73	pAnn	qGodfrey	gf	b17920000~	vKeynsham, Somerset, England	z1	d18750609	yKeynsham, Somerset, England	mV8EDJ	fUZE03
+iTXLP4	pJames Weller	qCarpenter	gm	b17840725	vKeynsham, Somerset, England	z1	d18620400	yKeynsham, Somerset, England	sX8TT3
+iX8TT3	sTXLP4	pMary	qTurner	gf	vKeynsham, Somerset, England	z1	d18620400	yKeynsham, Somerset, England
+iPMT6E	pAndrew	qNeal	gm	b19250115	aSomerset, England	mZSHM1	fMB5XV
+iHC5VS	pWilliam Phillips	qCantle	gm	vKeynsham, Somerset, England	aKeynsham, Keynsham, Somerset, England	z1	d00090000	yKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mZJUH4	fV70I7	sWB4I9
+iWB4I9	sHC5VS	pCaroline	qFrankham	gf	b18290000	vKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	aKeynsham, Keynsham, Somerset, England	z1	d00180000	yKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mOL3HJ	fN24RH
+iR1OFU	pFrederick  ‍‍	qWest	gm	b18410809	vMoor Crichell, Dorset, England	z1	d00240000	yBath, Somerset, England	sB6IOL
+iB6IOL	sR1OFU	pHannah	qCottle	gf	b18410000	vRadstock, Somerset, England	z1	d19080601	yBath, Somerset
+iCIGXE	pErnest Richard	qPayne	gm	b18940000~	vBristol, Gloucestershire.	aBristol, Gloucestershire, England	z1	d19181029	yBristol, Gloucestershire, England	UArnos Vale, Bristol Unitary Authority, Bristol, England	mRCY6J	fCKKW4	sYMT1K
+iYMT1K	sCIGXE	pOlive	qKnight	gf	b18910602	vCove, Hampshire, England	aBristol	z1	d19770600	yBristol, Avon, England
+iH7GGT	pOlive Alice	qPayne	gf	b18970000	vBarton Regis Gloucestershire England	aBristol, Gloucestershire, England	z1	d00020000	yBristol Gloucestershire England	mRCY6J	fCKKW4
+iSCVTK	pKitty Hilda M.	qPayne	gf	b19031013	vGloucestershire	aBristol, Gloucestershire, England	z1	d19820000	yReg. Chesterfield.	mRCY6J	fCKKW4
+iOGB8M	pChristopher	qPayne	gm	b19060314	vBristol, Gloucestershire, England	aBristol, Gloucestershire, England	z1	d19710300	yBristol, Gloucestershire, England	mRCY6J	fCKKW4
+iQBJ4P	pOldbury	qPayne	gm	b19080000~	vGloucestershire	aBristol, Gloucestershire, England	mRCY6J	fCKKW4
+iP7Z5U	pIsreal	qPayne	gm	b18120000~	vTimsbury, Somerset, England	z1	yClifton, Gloucestershire, England	fZSDBJ	sO920X
+iO920X	sP7Z5U	pHarriet	qChivers	gf	b18230000~	vWelton, Somerset, England	z1	d18980400	y Barton Regis, Gloucestershire, England	mQSG3L	fO6T3S
+iYBVDI	pJacob	qPayne	gm	b18620000~	vTimsbury, Somerset, England	z1	d19430700	yBristol, Gloucestershire, England	mO920X	fP7Z5U	sWJJEE
+iWJJEE	sYBVDI	pMary Ann	qSweet \\ Britton	gf	b18640000~	vBristol, Gloucestershire, England	z1	d19411224	yBristol, Gloucestershire, England
+iD2KZL	pMary	qPayne	gf	b18650000~	vTimsbury, Somerset, England	mO920X	fP7Z5U
+iPJSXI	pWilliam	qPayne	gm	vTimsbury, Clutton, Somerset, England	z1	yClutton, Somerset, England	mO920X	fP7Z5U
+iSZBOV	pDolly	qPayne	gf	b18980000~	vBristol, Gloucestershire, England	mWJJEE	fYBVDI
+iQ8VPZ	pSophia	qPayne	gf	b18980000~	vBristol, Gloucestershire, England	mWJJEE	fYBVDI
+iGM14Q	pJacob	qPayne	gm	b18950100	vBristol, Gloucestershire, England	z1	d00280000	ylawrence hill, Bristol, Gloucestershire, England	mWJJEE	fYBVDI
+iZ8JKY	pFlorence	qPayne	gf	b18880000	vSt George, Gloucestershire, England	mWJJEE	fYBVDI
+iP58ES	pGeorge	qPayne	gm	b18910000	vSt George, Gloucestershire, England	mWJJEE	fYBVDI
+iE92QE	pJoseph	qPayne	gm	b19000000~	vBristol, Gloucestershire, England	mWJJEE	fYBVDI
+iXF48U	pThomas	qSweet\\ Britton	gm	b18830000~	vSt George, Bristol	mWJJEE	fYBVDI
+iLUSBA	pHarry	qPayne	gm	b19030000~	vBristol, Gloucestershire, England	mWJJEE	fYBVDI
+iFLN9F	pArthur	qPayne	gm	b19060000~	vBristol, Gloucestershire, England	mWJJEE	fYBVDI
+iV8EDJ	pElizabeth (Betty)	qBroonkman	gf	b17710210	vKeynsham, Somerset, England	z1	yKeynsham, Somerset, England	sUZE03
+iUZE03	sV8EDJ	pWilliam	qGodfrey	gm	b17620215	vKeynsham, Somerset, England	z1	yKeynsham, Somerset, United Kingdom
+iR73PO	pLeslie Ernest	qPayne	gm	b19140127	vFarnham, Surrey, United Kingdom	aBristol	z1	d19880100	yWest Super Mare, Somerset, England	mYMT1K	fCIGXE
+iCH5WJ	pLillian	qPayne	gf	mYMT1K	fCIGXE
+iW4UI4	pSarah	qWeymouth Frankham	gf	b18320000	vKeynsham, Keynsham, Somerset, England	z1	d18970306	y59 Magdala Road, Gloucester	mNOIKD	fOH4N7	sSC23F
+iSC23F	sW4UI4	pWilliam	qDewick	gm	b18330111	vSt Marys, Wymeswold, Leicestershire England	z1	d18970608	yBrecon Villa, Barnwood Road, Gloucester	mPYTM6	fGNVYC
+iBW5GM	pGeorge	qDewick	gm	vGloucestershire, England	z1	yGloucester, Gloucestershire	mW4UI4	fSC23F
+iR4KRK	pSarah Ann	qDewick	gf	b18700402	v24 Twyver Street, Gloucester, Gloucestershire, England	z1	d19150917	yCounty Lunatic Asylum, Barnwood	mW4UI4	fSC23F
+iRPWIG	pFrederick	qDewick	gm	vGloucestershire	z1	d19530000	mW4UI4	fSC23F
+iYMO28	pElizabeth	qDewick	gf	vWimeswold, Leicestershire Loughborough England	z1	d19341200	yPershore, Worcestershire	mW4UI4	fSC23F
+iRY3I6	pJohn	qDewick	gm	vGloucestershire	z1	d19201004	yAuckland, Auckland, New Zealand	mW4UI4	fSC23F
+iR89Q2	pEmily	qDewick	gf	vGloucestershire	z1	d19230600	yBristol, Gloucestershire, England	mW4UI4	fSC23F
+iDSOAZ	pJames	qDewick	gm	vGloucestershire England	z1	d19350900	yMedway, Kent	mW4UI4	fSC23F
+iUYUCG	pHarriett	qDewick	gf	vGloucestershire	z1	d19391200	yGloucester Rural, Gloucestershire	mW4UI4	fSC23F
+iW0VR8	pHenry	qDewick	gm	b18630900	vGloucestershire England	z1	d19320300	yGloucester, Gloucestershire	mW4UI4	fSC23F
+iUOKGH	pMary Ann	qDewick	gf	vLeechurch, Derbyshire, England	z1	yWatford, Hertfordshire	mW4UI4	fSC23F
+iU0B1H	pAlexandra	qMartin	gf	mG45DD	fSTART
+iV70I7	pJames	qCantle	gm	b17910130	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	d18641031	yKeynsham, Somerset	F18720320	UKeynsham Parish, Somerset, England	sZJUH4
+iZJUH4	sV70I7	pHannah	qPhilips	gf	b17960000~	vKeynsham, Somerset, England	aKeynsham, Somerset, England	z1	yKeynsham, Somerset, England UK	mI08F4	fZW905
+iLAWAC	pWilliam Shepherd	qAxford	gm	b18270923	vWily, Wiltshire, , England	z1	yWarminster, Wiltshire, United Kingdom	mYMH4P	fUG0CM	sU43OM
+iU43OM	sLAWAC	pJemima	qRabbets	gf	b18370900	vCodford St Mary, Wiltshire, , England	z1	yTisbury, Wiltshire, United Kingdom
+iUG0CM	pJames	qAxford	gm	b17760000	vFisherton Delamere, Wiltshire, , England	z1	d18470600	yCodford, Wiltshire, , England	mMYOLC	fGTP5T	sYMH4P
+iYMH4P	sUG0CM	pJane	qSmith	gf	b18060312	vCodford, St Mary, Wiltshire, England	z1	yWarminster, Wiltshire, England
+iHXGMP	pGeorge Henry	qAxford	gm	b18570900	vCodford St Mary, Wiltshire, England	z1	d19390600	yNorton Radstock, Bath, Somerset, England	mU43OM	fLAWAC
+iKGMEO	pRose C	qAxford	gf	b18660000	vCodford St Mary, Wiltshire, England	z1	d19530300	yMere, Wiltshire, England	mU43OM	fLAWAC
+iGTP5T	pJohn	qAxford	gm	b17530000	vBishopstrow, Wiltshire, , England, 	z1	d17990000	ySherrington Wiltshire England	USherrington, Wiltshire Unitary Authority, Wiltshire, England	mXB1PG	fDNCL3	sML03M
+iML03M	sGTP5T	pSarah	qImber	gf	b17530000	vUpton Lovell, Wiltshire, England, United Kingdom	z1	ySherrington, Wiltshire, England, United Kingdom
+iMYOLC	pJane	qVarden	gf	b17540000	vSherrington, Wiltshire, England	z1	d17920703>	ySherrington, Wiltshire, England
+iTDIRF	pJames	qAxford	gm	b17980415>	vSherrington, Wiltshire, England	z1	d18020000	ySherrington, Wiltshire, England	mMYOLC	fGTP5T
+iPQS2K	pJohn Comlin	qAxford	gm	b17800202>	vPotterne, Wiltshire, England	z1	d18650000	yWiltshire, England	mMYOLC	fGTP5T
+iYD7EP	pSarah	qAxford	gf	mMYOLC	fGTP5T
+iJRVZW	pGeorge	qAxford	gm	b17840000	vPotterne, Wiltshire, England	mMYOLC	fGTP5T
+iA8GP4	pCatharine	qAxford	gf	b17760000~	z1	d18330000~	mMYOLC	fGTP5T
+iS7SEI	pJohn	qAxford	gm	vCodford St Mary, Wiltshire, England	z1	d18860900	yWilton, Wiltshire, England	mYMH4P	fUG0CM
+iP5L3M	pElizabeth	qAxford	gf	b18290329	vCodford St Mary, Wiltshire, England	mYMH4P	fUG0CM
+iMP39I	pMary Ann	qAxford	gf	b18320000	vCodford St Mary, Wiltshire, England	z1	d18900300	yLambeth, London, England	mYMH4P	fUG0CM
+iC7LBB	pThomas	qAxford.	gm	b18330331	vCodford St Mary, Wiltshire, England	z1	d18410000	yCodford St Mary, Wiltshire, England	mYMH4P	fUG0CM
+iTOTND	pRichard	qAxford	gm	b18350000	vWylye, Wiltshire, England	z1	d18941214	yWinchester, Hampshire, England	mYMH4P	fUG0CM
+iDNCL3	pThomas	qAxford	gm	b17120000	vLittle Cheverell, Wiltshire, England, United Kingdom	z1	d17861211	ySherrington, Wiltshire Unitary Authority, Wiltshire, England	USherrington, Wiltshire Unitary Authority, Wiltshire, England	mDQBOX	fZ6JBH	sXB1PG
+iXB1PG	sDNCL3	pSarah	qSaunders	gf	b17230000~	vMarket Lavington, Wiltshire, England	z1	d17831020	ySherrington, Wiltshire Unitary Authority, Wiltshire, England	USherrington, Wiltshire Unitary Authority, Wiltshire, England
+iZABL4	pThomas	qAxford	gm	b00140000	vGreat Cheverall, Wiltshire, England, United Kingdom	z1	yDevizes, Wiltshire, England, United Kingdom	mMYOLC	fGTP5T
+iK3JH2	pWilliam	qAxford	gm	b17950000	vSherrington, Wiltshire, England, United Kingdom	z1	d18761200	ySherrington, Wiltshire, , England	mMYOLC	fGTP5T
+iUU1L7	pMary Elizabeth	qAxford	gf	b17500000	vBishopstrow, Wiltshire, England	mXB1PG	fDNCL3
+iWQL62	pJohn	qAxford	gm	b17990000	vKeevil, Wiltshire, , England	z1	d18851200	ySteeple Ashton, Wiltshire, , England	mML03M	fGTP5T
+iD336J	pElizabeth	qAxford	gf	b17860920	mML03M	fGTP5T
+iZ6JBH	pJohn	qAxford	gm	b16860610	vEarl Stoke, Wiltshire, England	aLittle Cheverell, Wiltshire, England	z1	d17340000	yLittle  Cheverell, Wiltshire, , England	mV69UZ	fILKDX	sDQBOX
+iDQBOX	sZ6JBH	pAnne	qComelyn	gf	b00230000	vLittle Cheverell, Wiltshire, England, United Kingdom	z1	d17560000	yLittle Cheverell, Wiltshire, England
+iV69UZ	pCharity	qTilly	gf	b16690000	vErlestoke, Wiltshire, England, United Kingdom	z1	d17480000	yErlestoke, Wiltshire, England, United Kingdom	sILKDX
+iILKDX	sV69UZ	pThomas	qAxford	gm	b16600000	vEarl-Stoke, Wiltshire, England, United Kingdom	z1	d17080000	yErlestoke, Wiltshire, England, United Kingdom	mF6FNX	fIFQWI
+iG7DU4	pGeorge	qAxford	gm	b17140000	vLittle Cheverall, Wiltshire, England, United Kingdom	z1	d17150000	yLittle Cheverall, Wiltshire, England, United Kingdom	mDQBOX	fZ6JBH
+iWZYZV	pJames	qAxford	gm	b17210000	vLittle Cheverell, Wiltshire, England, United Kingdom	z1	d18020000	yLittle Cheverell, Wiltshire, England, United Kingdom	mDQBOX	fZ6JBH
+iYYRH0	pSarah	qAxford	gf	b17230000	vLittle Cheverell, Wiltshire, England, United Kingdom	z1	d17760000	yLittle Cheverell, Wiltshire, England, United Kingdom	mDQBOX	fZ6JBH
+iSLG0Z	pWilliam	qAxford	gm	b17190000	vLittle Cheverell, Wiltshire, England, United Kingdom	z1	d17620000	yMarket Lavington, Wiltshire, England, United Kingdom	mDQBOX	fZ6JBH
+iVUV3E	pElinor	qAxford	gf	b16780131>	vWarminster, Wiltshire, England, United Kingdom	z1	d17520000	yWiltshire, Wiltshire, England, United Kingdom	mV69UZ	fILKDX
+iIFQWI	pWilliam	qAxford	gm	b16360000	vBratton, Wiltshire, England	z1	d16910000~	yEngland, England, United Kingdom	mACEZ1	fC4GHP	sF6FNX
+iF6FNX	sIFQWI	pMary	gf	b16410000	vBratton, Wiltshire, England	z1	d16810000~
+iC4GHP	pWilliam	qAxford	gm	b16090000	vBratton, Westbury Wiltshire	sACEZ1
+iACEZ1	sC4GHP	pJoan	qAppellgate	gf	b16070000	vBratton, Wiltshire, England	z1	d16580000	yBratton, Wiltshire, England
+iSWQH3	pAaron	qAxford	gm	b16890000	vRamsbury, Wiltshire, England	z1	d17720228	yRamsbury, Wiltshire, England	mACEZ1	fC4GHP
+iI2H2P	pMary Ann	qPayne	gf	b18840000	vKeynsham, Somerset, England
+iL6JWD	pIvy	qPayne	gf	b19021109	vBristol, Gloucestershire, England	z1	d19801210	yBristol, Gloucestershire, England	mI2H2P	fUMGT5	sSXG3M
+iSXG3M	sL6JWD	pFrank William	qJarvis	gm	b18990407	vBedminster, Bristol	z1	d19730722	yBristol, Gloucestershire, England
+iYS9P0	pAlfred A	qJarvis	gm	b19310501	vBristol, Gloucestershire, England	z1	d20210104	yBristol, Gloucestershire, England	mL6JWD	fSXG3M	sH4IRL
+iH4IRL	sYS9P0	pDoreen J	qFoote	gf	b19321003	vLondon, England	z1	d20191030	yBristol, Gloucestershire, England
+iVWW8A	pEllen Rosina	qJarvis	gf	b19400806	vBristol, Avon	z1	d19800928	yThornbury, Avon, England	mL6JWD	fSXG3M
+iH3EQW	pChristoper	qJarvis	gm	vBath, Somerset, England	mH4IRL	fYS9P0
+iO6T3S	pThomas	qChivers	gm	b00020000	vHigh Littleton, Somerset, England	z1	d18620526	yClutton, Somerset	sQSG3L
+iQSG3L	sO6T3S	pHester	qCURTIS	gf	b17790000	vFarmborough, Somerset, England	z1	d18220500	yHallatrow, Somerset, England
+iN24RH	pWalter	qFrankham	gm	b00240000	vSomerset, England	z1	yKeynsham, Somerset	mLM2U3	fVREC8	sOL3HJ
+iOL3HJ	sN24RH	pMary	qPalmer	gf	b17961030	vKeynsham, Somerset, England	z1	d18750100	yKeynsham, Somerset, England, United Kingdom
+iVREC8	pJames	qFrankham	gm	b17530408	v1675019, Keynsham, Somerset, England	z1	sLM2U3
+iLM2U3	sVREC8	pSarah	qHarris	gf	b17550000	vKeynsham, Somerset, England	z1	d17960000
+iKDZ86	pDaniel	qFrankham	gm	mLM2U3	fVREC8
+iGVPOP	pSarah	qFrankham	gf	b18140000	vKeynsham, Somerset, England	z1	d18160000	yKeynsham, Somerset, England	mOL3HJ	fN24RH
+iT7HUP	pHester	qFrankham	gf	b18350000	vKeynsham, Somerset, England	mOL3HJ	fN24RH
+iKF0IM	pWilliam	qFrankham	gm	b18210826	vKeynsham, Somerset, England	z1	yKeynsham, Somerset	mOL3HJ	fN24RH
+iAC3EF	pMary Ann	qFrankham	gf	b18240802	vKeynsham, Somerset, England	z1	d18620330	yGloucestershire, England	mOL3HJ	fN24RH
+iUURUE	pSarah	qFrankham	gf	b18320000~	vLeicestershire, England	z1	d18970306	y59 Magdala Road, Gloucester	mOL3HJ	fN24RH
+iHAHA8	pWalter C	qFrankham	gm	b18391000	vKeynsham, Somerset, England	z1	d00080000	yDevonport, Auckland New Zealand	mOL3HJ	fN24RH
+iDIUTX	pGeorge	qFrankham	gm	b18260000~	vKeynsham, Somerset, England	mOL3HJ	fN24RH
+iZW905	pJohn	qPhillips	gm	b17470000	vKeynsham, Somerset, England, United Kingdom	z1	d17980000	yKeynsham, Somerset, England, United Kingdom	sI08F4
+iI08F4	sZW905	pBetty	qRumsey	gf	b17500000	vKeynsham, Somerset, England, United Kingdom	z1	d18190000	yKeynsham, Somerset, England, United Kingdom
+iC8PUT	pLeah	qCantle	gf	vKeynsham, Somerset, England	z1	d18891000	yGloucestershire, Somerset, United Kingdom	mZJUH4	fV70I7
+iN5T15	pWilliam Phillips	qCantle	gm	b18250000	vKeynsham, Somerset, England UK	z1	d18280000	yKeynsham, Somerset, England UK	mZJUH4	fV70I7
+iM5ECP	pLeah	qCantle	gf	b18150000	vKeynsham, Somerset, England UK	z1	d18150000	yKeynsham, Somerset, England UK	mZJUH4	fV70I7
+iTBZMJ	pJohn Phillips	qCantle	gm	b18240721	vKeynsham, Somerset, England UK	z1	d19110812	yKeynsham, Somerset, England UK	mZJUH4	fV70I7
+iOL6TC	pElizabeth	qCantle	gf	b18190000	vKeynsham, Somerset, England UK	z1	d18840400	yKeynsham, Somerset, England UK	mZJUH4	fV70I7
+iT52ZB	pSarah	qCantle	gf	b18130000	vKeynsham, Somerset, England UK	z1	d18550000	yKeynsham, Somerset, England UK	mZJUH4	fV70I7
+iQ39CO	pJacob	qCantle	gm	b18150000	vKeynsham, Somerset, England UK	z1	d18150000	yKeynsham, Somerset, England UK	mZJUH4	fV70I7
+iNVJCM	pDavid	qFry	gm	b18320000~	vGridleton, Wiltshire, England	aKeynsham, Somerset, England	z1	d18900213	yKeynsham, Somerset, England	mY6Z3P	fQAXMN	sDTIJV
+iDTIJV	sNVJCM	pEliza	qSaunders	gf	b18330000~	vKeynsham Somerset England	aKeynsham, Somerset, England
+iQAXMN	pRichard	qFry	gm	b17830000	vGrittleton, Wiltshire, England	aCodford St Mary, St Mary Codford, Wiltshire, England	z1	d18360000	yChippenham, Wiltshire, United Kingdom	F18360302	UGrittleton, Wiltshire, England	mXSZVU	fZIKXP	sY6Z3P
+iY6Z3P	sQAXMN	pElizabeth	qFittock	gf	b17830000	vTruro Cornwall	z1	d18510625	yCodford St Mary, Wiltshire, England
+iTULTK	pThomas	qFry	gm	b18270000	vGrittleton, Wiltshire, England	z1	d18710000~	mY6Z3P	fQAXMN
+iJHDNJ	pElizabeth	qFry	gf	b18120000	vPlymouth, Devon, England	mY6Z3P	fQAXMN
+iN6518	pMary Ann	qFry	gf	b18140000	vPlymouth, Devon, England	z1	d18911200	yKeynsham, Somerset	mY6Z3P	fQAXMN
+iF6RQG	pRichard	qFry	gm	b18170202	vPortsmouth, Hampshire, England	z1	d19020530	yGloucestershire, Somerset, United Kingdom	mY6Z3P	fQAXMN
+iCEH1Q	pFrancis	qFry	gm	b18190000	vGrittleton, Wiltshire, England	z1	d18991215	yBirmingham, Warwickshire, England	mY6Z3P	fQAXMN	sEJTR6
+iEJTR6	sCEH1Q	pKeziah	qMillard	gf	b18101230	vGretleton, Wiltshire, England	z1	d18931102	y82 Essington St, Ladywood, Birmingham, England
+iOYMJS	pJohn	qFry	gm	b18230000	vGrittleton, Wiltshire, England	z1	mY6Z3P	fQAXMN
+iUADEU	pWilliam Fittock	qFry	gm	b18250000	vGrittleton, Wiltshire, England	aChippenham, Wiltshire, England	z1	d19231200	yKingston, Surrey, England	mY6Z3P	fQAXMN	sU1HSK
+iU1HSK	sUADEU	pCaroline	qGingell	gf	b18280900	vBath, Somerset, England	aBathwick, Somerset, England	mB2AJL	fBR490
+iJR1R4	pJoseph William	qFry	gm	b18630426	vKeynsham, Somerset, England	aSomerset, England	z1	d19050204	yKeynsham, Somerset, England	UKeynsham, Bath and North East Somerset Unitary Authority, Somerset, England	mDTIJV	fNVJCM
+iA9061	pCaroline	qFry	gf	b18650000~	vKeynsham	aKeynsham, Somerset, England	z1	ySomerset, United Kingdom	mDTIJV	fNVJCM	sM4LQK
+iM4LQK	sA9061	pJohn Edward	qCook	gm	b18650000~	vBristol, Somerset, England	aBedminster, Somerset, England	fKN898
+iSEYGV	pRichard David	qFry	gm	b18671031	vKeynsham, Somerset	aSomerset, England	z1	d00070000	yKeynsham, Somerset, England	UCompton Dando, Bath and North East Somerset Unitary Authority, Somerset, England	mDTIJV	fNVJCM	sLDX4L
+iLDX4L	sSEYGV	pHonor	qBarnes	gf	b18730000	vCompton Dando, Somerset, England	aCompton Dando, Compton Dando, Somerset, England	z1	d00130000	yKeynsham, Somerset, England
+iWKZCC	pMary Ann	qFry	gf	b18560000~	vKeynsham, Somerset, England	aKeynsham, Somerset, England	mDTIJV	fNVJCM
+iEW0T6	pThomas	qFry	gm	b00290000	vKeynsham, Somerset	z1	d18590000	yKeynsham, Somerset, England	mDTIJV	fNVJCM
+iGL6MP	pWilliam	qFry	gm	b18691200	vKeynsham, Somerset	z1	d18700000	yKeynsham, Somerset, England	mDTIJV	fNVJCM
+iMZ7IH	pJohn	qFry	gm	b18720000	vKeynsham, Somerset	aKeynsham, Somerset, England	mDTIJV	fNVJCM	sS0TX8
+iS0TX8	sMZ7IH	pElizabeth	qFlower	gf	b18690000~	vPaulton	aBristol, Gloucestershire, England
+iUJHTG	pGilbert	qFry	gm	b18790000	vKeynsham, Somerset	z1	d19671200	yBristol, Gloucestershire, England	mDTIJV	fNVJCM
+iZIKXP	pJames	qFry	gm	aSalisbury St Edmund	sXSZVU
+iXSZVU	sZIKXP	pMary	qFry	gf	vWiltshire, England	aSalisbury St Edmund	z1	d17980000~
+iC2WAE	pHenry James	qFry	gm	vBath, Somerset, England	aBathwick, Somerset, England	mU1HSK	fUADEU
+iBR490	pWilliam	qGingell	gm	b18000000	vGrittleton, Wiltshire, England	aBathwick, Somerset, England	sB2AJL
+iB2AJL	sBR490	pCaroline	qGingell	gf	b18130000	vBath, Somerset, England	aBathwick, Somerset, England
+iZNPY9	pHarriet Dionis	qFry	gf	b18500000~	vBrookin, Gloucestershire, England	z1	d19350529	y82 Essington St, Ladywood, Birmingham, England	mEJTR6	fCEH1Q
+iAQ1I9	pThomas Isaac	qFry	gm	b18490000~	vLittleton Drew, Wiltshire, England	mEJTR6	fCEH1Q
+iBL1YL	pWilliam	qFry	gm	b18430000	vLittleton Drew, Wiltshire, England	z1	d19290400	yBirmingham	mEJTR6	fCEH1Q
+iX1301	pRhoda	qFry	gf	b18460000	vLittleton Drew, Wiltshire, England	z1	yBirmingham, Warwickshire	mEJTR6	fCEH1Q
+iO2TTC	pEllen	qFry	gf	b18740000~	vWest Dean, Gloucestershire, England	mEJTR6	fCEH1Q
+iW0LOH	pJeseker	qFry	gf	vBirmingham, Warwickshire, England	mEJTR6	fCEH1Q
+iGNVYC	pJames	qDewick Duick	gm	b18010000	vWymeswould, Leicestershire England	z1	d18710104	yLeicester, Leicestershire	sPYTM6
+iPYTM6	sGNVYC	pElizabeth	qFletcher	gf	b18040123	vWymeswold, Leicestershire, England	z1	d18860401	yAshby de la Zouch, Leicestershire (registered)
+iNOIKD	pMary	qPalmer	gf	b17920000~	vKeynsham, Somerset, England	z1	yBristol, Gloucestershire	sOH4N7
+iOH4N7	sNOIKD	pWalter	qFrankham	gm	b00240000	vKeynsham, Somerset	z1	d18721200	yGloucestershire, Somerset, United Kingdom
+iP70FR	pCaroline	qFrankham	gm	b18310000~	vSomerset, England	z1	d00180000	mNOIKD	fOH4N7
+iU9HEO	pWilliam	qFrankham	gm	b00260000	vKeynsham, Somerset, England	z1	d00290000	yKeynsham, Somerset, United Kingdom	mNOIKD	fOH4N7
+iKM1AA	pSarah	qFrankham	gf	b18190000	z1	d18280000	mNOIKD	fOH4N7
+iVVZN7	pJohn	qFrankham	gm	b18210000~	vKeynsham, Somerset, England	z1	d18961200	ySomerset, United Kingdom	mNOIKD	fOH4N7
+iQ6L4G	pHester(Weymouth)	qFrankham	gf	b18350000~	vKeynsham, Somerset, England	mNOIKD	fOH4N7
+iKPOJ2	pMary Ann	qFrankham	gf	b00020000	vKeynsham, Somerset, England	z1	mNOIKD	fOH4N7
+iI5ZCA	pWilliam (Weymouth)	qFrankham	gm	vKeynsham, Somerset, England	z1	d19171120	yFrance	mNOIKD	fOH4N7
+iE5AO9	pWalter Charles	qFrankham	gm	b18391000	vKeynsham, Somerset, England	z1	d00080000	yDevonport, Auckland New Zealand	mNOIKD	fOH4N7
+iK3MG3	pGeorge (Weymouth)	qFrankham	gm	b18270000	vKeynsham, Somerset, England	z1	d18890600	ySomerset, England	mNOIKD	fOH4N7
+iJAODO	pSarah	qFrankham	gf	b18140000	vKeynsham, Somerset, England	z1	d18160000	yKeynsham, Somerset, England	mNOIKD	fOH4N7
+iIZKXU	pFrederick	qDewick	gm	b00140000	v37 Widden Street,Gloucester...	z1	d19530000	mW4UI4	fSC23F
+iMC95M	pFlorence A P	qNeale	gf	b19281028	vEngland, United Kingdom	mZSHM1	fMB5XV	sUHHSJ
+iUHHSJ	sMC95M	pHugh H	qThomas	gm	b19280324
+iFYFHD	pSarah	qSymons	gf	b19550000	mMC95M	fUHHSJ
+iS53F8	pPrivate	qNeal	gf	mDW6R3	fT33WQ	sFRYSF
+iFRYSF	sS53F8	pPrivate	qDark	gm
+iG9II4	pLee	qDark	gm	b19880000	mS53F8	fFRYSF
+iOAB1S	pThomas	qCooper	gm	b18490300	vGedney Drove End, Holbeach, Lincoln, England	z1	d19260900	yHolbeach, Lincolnshire, England	mXXUVG	fS4F7D	sI9HQG
+iI9HQG	sOAB1S	pAgnes	qSayer	gf	vMarske, Guisborough, Yorkshire North Riding, England	z1	d19310600	yHolbeach, Lincolnshire, England	mIV3HD	fP78QD
+iIV3HD	pAnn	qDinsdale	gf	b18330000	vLong Newton, Durham, England	z1	yReigate, Surrey, England	sP78QD
+iP78QD	sIV3HD	pHenry	qSayer	gm	b18250330	vYorks, Arkengarthdale	z1	d18700000~	yMarske, Yorkshire, England
+iXXUVG	pTeraphina Mary	qGodfrey	gf	b18150000	vUpwell, Norfolk, England / Well, Cambridgeshire, England	z1	yHolbeach, Lincolnshire, England	sS4F7D
+iS4F7D	sXXUVG	pThomas	qCooper	gm	b18070216	vSutton St James, Lincolnshire, England	z1	yHolbeach, Lincolnshire
+iZSDBJ	pGeorge	qPayne	gm	b17790000	vTimsbury, Somerset, England	z1	d18660000~
+iLFOIN	pCaroline	qFry	gf	b18610000	vKeynsham, Somerset, England	z1	d18620000	yKeynsham, Somerset, England	mDTIJV	fNVJCM
+iKN898	pJohn James	qCook	gm
+iDY3KW	pRichard David	qFry	gm	b18960308	vCompton Dando, Somerset, England	aCompton Dando, Compton Dando, Somerset, England	z1	d19720900	yBristol, Gloucestershire, England	mLDX4L	fSEYGV
+iXJE9L	pClarice Lois	qFry	gf	b18980000	vCompton Dando, Somerset, England	aCompton Dando, Compton Dando, Somerset, England	z1	d19510000	yFarmborough, Somerset	UFarmborough, Bath and North East Somerset Unitary Authority, Somerset, England	mLDX4L	fSEYGV	sYUMVP
+iYUMVP	sXJE9L	pWilliam	qThompson	gm	b18970531	vWoollard, Somerset	aSomerset, England	z1	d19570000	yFarmborough, Somerset
+iKWXXR	pAlbert William	qFry	gm	b19010000~	vCompton Dando, Somerset, England	aCompton Dando, Compton Dando, Somerset, England	z1	d19730600	yBathavon, Somerset, England	mLDX4L	fSEYGV	sYG4LB
+iYG4LB	sKWXXR	pEvelyn Louisa	qHendy	gf	b19040000~	aSomerset, England	z1	d00010000	yBathavon, Somerset, England
+iAMGM2	pJack	qFry	gm	b19030813	vCompton Dando, (Keynsham Dist) Somerset, England	aMarksbury and Compton Dando, Somerset, England	z1	d19661200	yBathavon, Somerset, England	UFarmborough, Bath and North East Somerset Unitary Authority, Somerset, England	mLDX4L	fSEYGV	sAW4ZR
+iAW4ZR	sAMGM2	pFlorence Isabella	qHutchings	gf	b19060726	vMerthyr Tydfil, Glamorgan, Wales	aSomerset, England	z1	yBristol, Gloucestershire, England
+iM1FQ0	pLeonard George	qFry	gm	b19110331	vCompton Dando, (Keynsham Dist) Somerset, England	aMarksbury and Compton Dando, Somerset, England	z1	d19560000	yBristol, Gloucestershire	mLDX4L	fSEYGV
+iDVO75	pJoseph	qFry	gm	b19070000	vCompton Dando, (Keynsham Dist) Somerset, England	z1	d19070000	yKeynsham, Somerset, England	mLDX4L	fSEYGV
+iB3FG3	pDolly	qFry	gf	b19080000	vCompton Dando, (Keynsham Dist) Somerset, England	z1	d19080000	yKeynsham, Somerset, England	mLDX4L	fSEYGV
+iLVQDI	pIrene Louisa	qFry	gf	b19141014	vCompton Dando, (Keynsham Dist) Somerset, England	aGloucestershire, England	z1	d19731010	yBath, Somerset, England	F19731016	USomerset, England	mLDX4L	fSEYGV	sHXYE8
+iHXYE8	sLVQDI	pJohn W.	qFlower	gm
+iRW148	pWilliam David George	qThompson	gm	b19230123	vKeynsham, Somerset	aSomerset, England	z1	d19840000	yBath, Somerset	mXJE9L	fYUMVP
+iOM0Z2	pJohn D	qThompson	gm	b19250215	aSomerset, England	mXJE9L	fYUMVP
+iL4O41	pChristine Mary	qThompson	lThompson	gf	b19361206	vKeynsham, Somerset	aSomerset, England	z1	d19920000	yBath, Somerset	UFarmborough, Bath and North East Somerset Unitary Authority, Somerset, England	mXJE9L	fYUMVP	sAKE0A
+iAKE0A	sL4O41	pGraham Arthur	qGibbins	gm	b19350000	z1	d00310000	UFarmborough, Bath and North East Somerset Unitary Authority, Somerset, England
+iG6VOC	pWilliam	qThompson	gm	b19210000	vKeynsham, Somerset	z1	d19210000	yKeynsham, Somerset	mXJE9L	fYUMVP
+iK4Y58	pClarice Mabel	qThompson	gf	b00080000	vKeynsham, Somerset	aSomerset, England	z1	d00160000	yBath, Avon, England	F19821122	USomerset, England	mXJE9L	fYUMVP	sY7BZ2
+iY7BZ2	sK4Y58	pRichmond Frank	qAtkins	gm	a4 . Bath Road . Farmborough
+iX3TJO	pDouglas John	qThompson	gm	b00150000	vKeynsham, Somerset	aSomerset, England	z1	d19680000	yBath, Somerset	mXJE9L	fYUMVP
+iQU7H9	pBrian Albert George	qFry	gm	b19321217	vClutton, Somerset, England	aSomerset, England	z1	d19870000	yBristol, Gloucestershire, England	mYG4LB	fKWXXR
+iUWLL5	pGrace Florence	qFry	gf	b19350420	vClutton, Somerset, England	aSomerset, England	z1	d20040301	yBath & North East Somerset, England	mAW4ZR	fAMGM2
+iSK31A	pD. Alice	qFlower	gm	mLVQDI	fHXYE8
+iP1KZR	pFred	qFlower	gm	mLVQDI	fHXYE8
+iNXVNM	pEliza	qFry	gf	b19000613	vBristol	aBristol, Gloucestershire, England	mS0TX8	fMZ7IH
+iCG9NR	pRosina	qFry	gf	b18980000~	vBristol	aBristol, Gloucestershire, England	mS0TX8	fMZ7IH
+iWD1X5	pJohn	qFry	gm	b18960000~	vBristol	aBristol, Gloucestershire, England	mS0TX8	fMZ7IH
+iUIWC8	pThomas	qFry	gm	b19100000~	vBristol	aBristol, Gloucestershire, England	mS0TX8	fMZ7IH
+iCMW2R	pJames	qDix	gm	b17990609	vHigh Littleton, Somerset, England	z1	d18690303	yClutton, Somerset, England	mD4IEI	fEY21B	sPRIFE
+iPRIFE	sCMW2R	pMaria	qSage	gf	b18050220	vHigh Littleton, Somerset, England	z1	d18760116	yHigh Littleton, Somerset, England	mFJ64M	fS9MRX
+iEY21B	pJames John	qDix	gm	b17650000~	vEmborough, Somerset, England	z1	d18530200	yHigh Littleton, Somerset, England	sD4IEI
+iD4IEI	sEY21B	pAnn Louisa	qGulliford	gf	b17650000	vMidsomer Norton, Somerset, England	z1	d18470911	yHigh Littleton, Somerset, England
+iS9MRX	pJonah	qSage	gm	b17710106	vCameley, Somerset, England	z1	d18470200	yHigh Littleton, Somerset, England	sFJ64M
+iFJ64M	sS9MRX	pMary	qJames	gf	b17731205	vClutton, Somerset, England	z1	d18300422	yTimsbury, Somerset, England
+iECIOH	pDerek Anthony	qProvis	gm	b19321114	vCorsham, Wiltshire, England	z1	d20200416	yastbury mere care home, astbury, Congleton Edge, Cheshire, England	mHHTHK	fW8YR0	sM6O3O
+iM6O3O	sECIOH	pAnne	qGriffiths	gf	b19360505	vPontardawe, Glamorgan, Wales	z1	d20200122	yastbury mere care home, astbury, Congleton Edge, Cheshire, England
+iJV6FN	J**	pGeorge  **	qProvis	gm	b18590805	vChristian Malford, Wiltshire, England	z1	d19470224	yAlberto House, 7 Lypiatt Road, Corsham, Chippenham, Wiltshire, England	sYKIGP
+iYKIGP	sJV6FN	pSarah Ann	qHawkins	gf	b18611220	vBradenstoke, Wiltshire, England	z1	d19340329	yAlberta House, Lyplatt Road, Corsham, Chippeham, Wiltshire
+iBBY75	pGary J	qProvis	gm	mM6O3O	fECIOH
+pIWX9Q S7YGN	e1	gm	m19890000	wBristol, Avon, United Kingdom
+pN675T XS0MV	e1	gm	m19610325	wKingswood, Gloucestershire, United Kingdom
+pLPOK3 PV7R6	e1	gm	m19270700	wKeynsham, Somerset, United Kingdom
+pFL95K IG49M	e1	gm	m19350422	wGloucestershire, England
+pLOHNJ TJ1RV	e1	gm	m19130331	wOldland, Gloucester, England
+pTJ1RV XDS14	e1	gm	m18891222	wOldland, St Anne, Gloucestershire, England
+pJ7B1H WM334	e1	gm	m18781109	wHanham Abbots, St George, Gloucestershire, England
+pRCQIE TQR2S	e1	gm	m18530424	wBristol, St Philip and Jacob, Gloucestershire, England
+pGA2NO YJ8QJ	e1	gm	m18791029	wSt. Luke'S Church, Bedminster, Somerset, England
+pGA2NO T4QV7	e1	gm	m18940317	wBedminster, St Luke, Bristol, England
+pN35FJ O3LYB	e1	gm	m19380400	wBath, Somerset, United Kingdom
+pB575B GE2ZN	e1	gm	m19230700	wBristol, Gloucestershire, United Kingdom
+pCUKHZ X5A47	e1
+pAD83Q CW456	e1	gm	m19180110	wOldland, St Anne, Gloucestershire, England
+pKNKKS OIPJX	e1	gm	m18480522	wBristol, Gloucestershire, England
+pFIUSS T53KL	e1	gm	m18230816	wSt. James Parish, Bristol, Gloucester, England
+pFIUSS N2YGH	e1	gm	m18241212	wBristol, Gloucestershire, England
+pBC0SM KY4GW	e1	gm	m18040219	wSt Mary’s, Bitton, Gloucestershire, England
+pBMQGR EHY8G	e1	gm	m18250104	wBath, St James, Somerset, England
+pAM7T1 RHSOB	e1	gm	wBath, Somerset
+pN9CM3 UMGT5	e1
+pN8TNF T33AT	e1	gm	m18900000
+pMB5XV ZSHM1	e1	gm	m00040000	wThe Register Office, Bristol
+pPH4O5 V41TV	e1	gm	m19290400	wBristol, Gloucestershire, United Kingdom
+pDW6R3 T33WQ	e1
+pEYDF6 KNW9X	e1
+pE0DAF ZVUHE	e1
+pG45DD START	e1
+pDZV0P PI9GP	e1	gm	m18350408	wAldbourne Wiltshire
+pG9EIN OSH30	e1	gm	m18651225	wBristol, Gloucestershire, England
+pVEL2T ZMBGF	e1	gm	m18090209	wSomerset, England
+pQKDA2 QTDJI	e1
+pHMM64 JVXQ5	e1	gm	m18500310	wLyncombe and Widcombe, Somerset, England
+pCEKEK WPEQJ	e1	gm	m18600530	wWalcot St Swithin, Somerset, England
+pCWBA6 F1NTO	e1	gm	m18750927	wSt Luke's Church, Priston, Somerset, England.
+pCWBA6 VRF8D	e1	gm	m19110000	wClutton Register Office, Clutton, Somerset, England.
+pLPATB OOQA6	e1	gm	m18830621	wBedminster, St John, Somersetshire, England
+pG5LNM TREVQ	e1	gm	m19170000	wBath Somerset ENG, Somerset, England, United Kingdom
+pG5LNM IVIEU	e1	gm	m18801000	wBath, Somerset, England
+pAFHVY PIQFG	e1	gm	m18870530	wBedminster, St John, Somersetshire, England
+pCKKW4 RCY6J	e1	gm	m00130000	wBedminster, St John, Somersetshire, England
+pU6NI7 W0IHW	e1	gm	m18760400	wSt John's Church, Maindee, Christchurch, Monmouthshire, Wales
+pU6NI7 YGB4N	e1	gm	m19220422	wClutton, Somerset, United Kingdom
+pAPI1Z HR3V4	e1	gm	m19111119	wCaerphilly, Glamorganshire, Wales
+pAPI1Z EJDAK	e1
+pDHDVM U37K2	e1	gm	m19040518	wBristol, Gloucestershire, England
+pD0O3A V0ORW	e1	gm	m19120100	wPontypridd, Glamorgan
+pPNC8W SP22S	e1	gm	m19330000	wNewport Market, Glamorgan, Gwent, Monmouthshire, United Kingdom
+pAID34 VDTPY	e1	gm	m19070100	wClutton, Somerset, England
+pTWFOP Z9BBU	e1	gm	m19030326	wParish Church, Chippenham, St Andrew, Wiltshire, England
+pKL0JO SL9FM	e1	gm	wBristol, Gloucestershire
+pQ411N XLC57	e1	gm	m19490702	wRegister Office
+pA16JZ W29WT	e1
+pSGAF6 X10YI	e1	gm	m19421006	wSt. Gwlady's Church, Bargoed, Mid Glamorgan.
+pCY4OI EKM1R	e1	gm	m18861225	wSt. Clement Church, Middlesex, England
+pBABK4 QH29W	e1	gm	m18920424	wSt Marks, Lyncombe, Bath
+pXD1HH XWVYI	e1	gm	m19020308	wSt Marks Church Wyncombe Som
+pAT799 BNSOF	e1	gm	m19031230	wDundry, Somerset, England
+pWBYWI YMUVF	e1	gm	m19020600	wBristol, Gloucestershire, England
+pCJ74A XXWOC	e1	gm	m19200300	wClutton, Somerset
+pKH9YG UOHAA	e1	gm	m19180000	wReg. Clutton.
+pT6OAO ZQYBO	e1	gm	m19300700	wBath, Somerset, United Kingdom
+pUEDPS Z500L	e1	gm	m19100000	wReg. Bristol.
+pCZ4DX ZYVLQ	e1	gm	m19030000
+pNKF4D NO0R4	e1	gm	wBristol, Gloucestershire
+pP1OCM PN7FO	e1	gm	m19070100	wKeynsham
+pDOGZ6 IGK70	e1
+pLH7LA VKYXP	e1	gm	m19390621	wCanada
+pJP31R ZB33C	e1
+pBZSAB EEXQB	e1	gm	m19030414	wGloucester, St James, Gloucestershire, England
+pJFYKL T33AT	e1	gm	m18811022	wKeynsham, Kelston Gloucester, England
+pD0I8S RLWKX	e1	gm	m19481000	wWeston super Mare, Somerset, United Kingdom
+pH2WPO K94BM	e1
+pBXOU8 KCK5H	e1	gm	m18900703	wTabernacle Chapel, Treorchy, Glamorgan.
+pNN85L V8DE4	e1	gm	m19080518	wGloucestershire, England
+pHHRZ2 ZR6QB	e1
+pHLT3Y LM5HG	e1	gm	m19170000	wEbenezer Chapel, Wells Road, Radstock, Somerset
+pEHJJH OZXUJ	e1
+pBC1U2 ROH2T	e1
+pI9NMB NAEOH	e1
+pJSIV1 LFRD0	e1
+pRAXOU T2E8U	e1
+pL8UUN U6MFI	e1
+pKR1WD NCJAG	e1
+pIJJC5 JV8WW	e1	gm	m00050000	wStapleton, City of Bristol, Gloucestershire, England, United Kingdom
+pM1FVO ZDF3O	e1	gm	m18091220	wDunkerton Church, Dunkerton, Near Bath, England
+pPE2AD WJ6EF	e1	gm	m18420525	wHeytesbury, Wiltshire, England
+pGV5BW YWYKQ	e1	gm	m17820331	wSt Mary’s, Bitton, Gloucestershire, England
+pXSX4J ZLXH1	e1	gm	m17611215	wSherston Magna, Wiltshire, England
+pYSGVZ ZUEF5	e1
+pBJUH9 N11SG	e1	gm	m19100327	wWincanton, Somerset, England
+pHOQGS QJT90	e1	gm	m00260000	wShepton Mallet, Somerset
+pBDK0B PCTJW	e1	gm	m18971030	wSt Peter, Camerton, Somerset
+pKGEV2 OA5AC	e1	gm	m00250000	wSt Peter, Camerton, Somerset
+pWD80E WUM90	e1
+pAZFWT FGSWZ	e1	gm	m00120000	wThe Ascension (Claude Avenue), Bath, Somerset
+pXEQYX Y3YK2	e1	gm	m00170000	wSt Mary, Timsbury, Somerset
+pR8BEE W6T4W	e1	gm	m19100000	wPaddington, Middlesex
+pHZRWS NZHC9	e1	gm	m19200519	wWelland, Ontario, Canada
+pPQX2T X3R77	e1
+pBLVWM WIHRB	e1	gm	m19380700	wBedwellty, Monmouthshire, United Kingdom
+pHHTHK W8YR0	e1
+pLB68S PNC8W	e1	gm	m19140600	wBristol, England, United Kingdom
+pB0984 RMD9T	e1	gm	m18860000	wReg. Bedminster.
+pQMI42 S5OZ4	e1	gm	m19440100	wNorton Radstock, Somerset, United Kingdom
+pNE3R9 T4NVP	e1	gm	m18790219	wSt John the Baptist, Midsomer Norton, Somerset
+pJN9VL TERW7	e1	gm	m19400000	wReg. Kingswood.
+pE1LQ9 GWE0J	e1	gm	m19480700	wNorton Radstock, Somerset, United Kingdom
+pBDWCY N11SG	e1	gm	m19010122	wWincanton, Somerset, England
+pKFMK1 MGH6E	e1
+pI63FJ VMCY1	e1
+pBBL8B VMCY1	e1
+pE8CQ8 J1YLB	e1
+pEJKEQ PRQJZ	e1	gm	m19220000	wBath, Somerset, United Kingdom
+pK4TR3 NFY8P	e1	gm	m18760518	wAmberley, Gloucestershire, England
+pHNNRH WV5KD	e1	gm	m19370000	wReg. Bristol.
+pTKQJ7 ZNCPP	e1	gm	m18940000	wShepton Mallet, Somerset
+pOJEEZ V0PU5	e1	gm	m18640000	wBath Somerset ENG, Somerset, England, United Kingdom
+pLGJRU QHM29	e1
+pU41KR X31CX	e1
+pI2ZD4 U4FIC	e1	gm	m19520000	wKingswood, Gloucestershire, United Kingdom
+pJ8I6V M68G9	e1	gm	m19570100	wBristol, Gloucestershire, United Kingdom
+pE391O IRHDY	e1	gm	m19410700	wBath, Somerset, United Kingdom
+pM132P WFGTR	e1	gm	m18940915	wBath, St James, Somerset, England
+pDRSLB VVYXN	e1
+pA4AXL UNYZM	e1	gm	m19380100	wBristol, Gloucestershire, United Kingdom
+pA4AXL RV8JK	e1	gm	m19240920	wBristol, Gloucestershire, United Kingdom
+pHV6AQ Y1B25	e1	gm	m19390000	wBristol, Gloucestershire, United Kingdom
+pRV8JK ZD8DM	e1	gm	m19630700	wPlymouth, Devon, United Kingdom
+pMGZS8 ORUBF	e1
+pBMV0C V58UH	e1	gm	wNewton Abbot, Devon
+pS3BXN YOY6Y	e1	gm	m19170730	w Mission Chapel, Farquhar St.  Penang
+pCNEW8 U25RY	e1	gm	m19440100	wExeter, Devon, United Kingdom
+pFCD2C HR6MF	e1
+pO77PJ OXRXP	e1	gm	m18540930	wHoly Trinity Parish Church High Littleton  Somerset England
+pC3G6P I4WNY	e1
+pH0OQX WAZWU	e1
+pEQ4BT X4FW9	e1	gm	m18390000	wSt Mary's Church, Timsbury, Somerset, England.
+pOYX4B VRF8D	e1	gm	wBath, Somerset
+pLLM73 NPR3Y	e1
+pTXLP4 X8TT3	e1
+pHC5VS WB4I9	e1	gm	m18500414	wBristol, St Mary Redcliffe, Gloucestershire, England
+pB6IOL R1OFU	e1
+pCIGXE YMT1K	e1	gm	wHartley Wintney, Hampshire
+pO920X P7Z5U	e1	gm	m18600915	wTimsbury, Somerset, England
+pWJJEE YBVDI	e1	gm	m18851225	wMoorfields, St Matthews, Barton Regis, Gloucestershire, England
+pUZE03 V8EDJ	e1
+pSC23F W4UI4	e1	gm	m18510903	wThe General Baptist Chapel, Baxter Gate, Loughborough, Leicestershire, England
+pV70I7 ZJUH4	e1	gm	m18111202	wSomerset, England
+pLAWAC U43OM	e1	gm	wWarminster, Wiltshire, , England
+pUG0CM YMH4P	e1	gm	m18241130	wCodford St Mary, Wiltshire, , England
+pGTP5T MYOLC	e1	gm	m17750703	wSherrington, Wiltshire, , England
+pGTP5T ML03M	e1	gm	m17931226	wSherrington, Wilts, Wiltshire, England, United Kingdom
+pDNCL3 XB1PG	e1	gm	m00040000	wSherrington, Wiltshire, England, United Kingdom
+pDQBOX Z6JBH	e1	gm	m00080000	wUrchfont, Earl-Stoke Little Cheverell, Wiltshire, England, United Kingdom
+pILKDX V69UZ	e1	gm	m16780505	wSaint Denys, Warminster, Wiltshire, England
+pF6FNX IFQWI	e1
+pACEZ1 C4GHP	e1	gm	m00100000	wBratton, Wiltshire, England
+pI2H2P UMGT5	e1
+pL6JWD SXG3M	e1	gm	m19291000	wBristol, Gloucestershire, United Kingdom
+pH4IRL YS9P0	e1	gm	m19540400	wWoolwich, London, United Kingdom
+pO6T3S QSG3L	e1
+pN24RH OL3HJ	e1	gm	m18141226	wBristol, Gloucestershire, England
+pLM2U3 VREC8	e1	gm	m17780322	wBitton, Gloucester, England
+pI08F4 ZW905	e1
+pDTIJV NVJCM	e1	gm	m18550000	wKeynsham, Somerset, England
+pQAXMN Y6Z3P	e1	gm	m18100910	wTruro, Cornwall, England
+pCEH1Q EJTR6	e1	gm	m18400816	wLittleton Drew, Wiltshire, England
+pU1HSK UADEU	e1	gm	m18530130	wBathwick St Mary, Somerset, England
+pA9061 M4LQK	e1	gm	m18870102	wBedminster, St Luke, Somersetshire, England
+pLDX4L SEYGV	e1	gm	m18950100	wBarton Regis, Gloucestershire, England
+pMZ7IH S0TX8	e1	gm	m18971227	wBristol, Gloucestershire, England
+pXSZVU ZIKXP	e1	gm	m17180118	wFisherton Anger, Wiltshire, England
+pB2AJL BR490	e1
+pGNVYC PYTM6	e1
+pNOIKD OH4N7	e1	gm	m18141226	wBristol, Gloucestershire, England
+pMC95M UHHSJ	e1	gm	m19501000	wThornbury, Gloucestershire, United Kingdom
+pFRYSF S53F8	e1
+pI9HQG OAB1S	e1
+pIV3HD P78QD	e1
+pS4F7D XXUVG	e1
+pXJE9L YUMVP	e1	gm	m19210700	wKeynsham, Somerset, United Kingdom
+pKWXXR YG4LB	e1	gm	m19271029	wSomerset, England
+pAMGM2 AW4ZR	e1	gm	m19340623	wKeynsham, Somerset, United Kingdom
+pHXYE8 LVQDI	e1	gm	m19390700	wBristol, Gloucestershire, United Kingdom
+pAKE0A L4O41	e1	gm	m19590400	wNorton Radstock, Somerset, United Kingdom
+pK4Y58 Y7BZ2	e1	gm	m19530700	wNorton Radstock, Somerset, United Kingdom
+pCMW2R PRIFE	e1
+pD4IEI EY21B	e1
+pFJ64M S9MRX	e1
+pECIOH M6O3O	e1
+pJV6FN YKIGP	e1

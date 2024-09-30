@@ -1,23 +1,16 @@
-from tests.fsdate_test import test_fsdate
-from tests.fsread_test import test_fsread
+from FamilyScript import FamilyScript
 
-def fsdate_main():
-      print("""
-            Correct output:
-                  - 6 May 31 BCE ~ 3 Mar 23 BCE
-                  - Approx 10 Oct 1
-                  - Before 17 Aug 17 BCE
-                  - After 1 Dec 1 BCE
-                  - 7 Nov 1
-                  - Approx 15 May 82
-                  - 4 Oct 2 ~ 6 Feb 6
-                  - 15 Mar 88
-      """)
-      test_fsdate()
+if __name__ == '__main__':
+      path = r'C:\Programming\GitHub\FamilyScript-py\Natasha-Taylor-30-Sep-2024-010901818.txt'
+      fs = FamilyScript(path)
+      # for individual in fs.individuals:
+      #       try:
+      #             print(individual)
+      #       except UnicodeEncodeError as e:
+      #             print(f"id: {individual.id} ERROR: {e}")
+            # print(fs.get_children_with(individual, fs.individuals[0]))
 
-    
-
-
-if __name__ == "__main__":
-      # testing FSRead
-      test_fsread()
+      michael_martin = fs.get_by_name(given_names=['George'], surname='Martin')
+      print(michael_martin)
+      parents = fs.get_parents(michael_martin)
+      print([parent.fullname for parent in parents])
