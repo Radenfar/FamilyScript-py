@@ -1,7 +1,7 @@
 from models.fsdate import FSDate
 
 class Individual:
-    def __init__(self, id: str, given_names: list[str], nickname: str | None = None, title: str | None = None, surname_now: str | None = None, surname: str | None = None, surname_at_birth: str | None = None, gender: str | None = None, birth_date: str | None = None, deceased: str | None = None, death_date: str | None = None, photo: str | None = None, birth_order: str | None = None, mother: str | None = None, father: str | None = None, primary_parent_set_type: str | None = None, current_partner: str | None = None, mother_second: str | None = None, father_second: str | None = None, second_parent_set_type: str | None = None, mother_third: str | None = None, father_third: str | None = None, third_parent_set_type: str | None = None, email: str | None = None, website: str | None = None, blog: str | None = None, photo_site: str | None = None, home_tel: str | None = None, work_tel: str | None = None, mobile: str | None = None, address: str | None = None, other_contact: str | None = None, birth_place: str | None = None, death_place: str | None = None, cause_of_death: str | None = None, burial_place: str | None = None, burial_date: str | None = None, profession: str | None = None, company: str | None = None, interests: str | None = None, activities: str | None = None, bio_notes: str | None = None) -> None:
+    def __init__(self, id: str, given_names: list[str], nickname: str | None = None, title: str | None = None, suffix: str | None = None, surname_now: str | None = None, surname: str | None = None, surname_at_birth: str | None = None, gender: str | None = None, birth_date: str | None = None, deceased: str | None = None, death_date: str | None = None, photo: str | None = None, birth_order: str | None = None, mother: str | None = None, father: str | None = None, primary_parent_set_type: str | None = None, current_partner: str | None = None, mother_second: str | None = None, father_second: str | None = None, second_parent_set_type: str | None = None, mother_third: str | None = None, father_third: str | None = None, third_parent_set_type: str | None = None, email: str | None = None, website: str | None = None, blog: str | None = None, photo_site: str | None = None, home_tel: str | None = None, work_tel: str | None = None, mobile: str | None = None, address: str | None = None, other_contact: str | None = None, birth_place: str | None = None, death_place: str | None = None, cause_of_death: str | None = None, burial_place: str | None = None, burial_date: str | None = None, profession: str | None = None, company: str | None = None, interests: str | None = None, activities: str | None = None, bio_notes: str | None = None) -> None:
         '''
         Personal Information
         Tag	Fact	Example or Notes
@@ -56,9 +56,12 @@ class Individual:
         The only required fields are ID and given names, all other fields are optional.
         '''
         self.id: str = id
+        self.pointer: str | None = None
+        self.is_main: bool = True if "START" in id else False
         self.given_names: list[str] = given_names
         self.nickname: str | None = nickname
         self.title: str | None = title
+        self.suffix: str | None = suffix
         self.surname_now: str | None = surname_now
         self.surname_at_birth: str | None = surname_at_birth
         self.gender: str | None = gender
@@ -97,9 +100,25 @@ class Individual:
         self.activities: str | None = activities
         self.bio_notes: str | None = bio_notes
 
+    @property
+    def fullname(self) -> str:
+        name_str = ' '.join(self.given_names)
+        if self.surname_now:
+            name_str += f" {self.surname_now}"
+        if self.surname_at_birth and self.surname_at_birth != self.surname_now:
+            name_str += f" ({self.surname_at_birth})"
+        if self.title:
+            name_str = f"{self.title} {name_str}"
+        if self.suffix:
+            name_str += f" {self.suffix}"
+        return name_str
+
 
     def __parse_date(self, date: str | None) -> FSDate | None:
         try:
             return FSDate(date)
         except Exception as e:
             return None
+        
+    def __str__(self) -> str:
+        return f"<Individual: {self.fullname} ({self.id})>"
