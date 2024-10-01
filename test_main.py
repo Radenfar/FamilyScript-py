@@ -10,7 +10,10 @@ if __name__ == '__main__':
       #             print(f"id: {individual.id} ERROR: {e}")
             # print(fs.get_children_with(individual, fs.individuals[0]))
 
-      michael_martin = fs.get_by_name(given_names=['George'], surname='Martin')
-      print(michael_martin)
-      parents = fs.get_parents(michael_martin)
-      print([parent.fullname for parent in parents])
+      kathleen_mary_raine = fs.get_by_name(given_names=['Kathleen', 'Mary'], surname='Raine')[0]
+      print(kathleen_mary_raine.fullname)
+
+      percy_jackson_p_raine = fs.get_by_name(given_names=['Percy', 'Jackson', 'P'], surname='Raine')[0]
+      print(percy_jackson_p_raine.fullname)
+
+      print(fs.calculate_distance(kathleen_mary_raine, percy_jackson_p_raine))

@@ -4,6 +4,7 @@ from models.fsdate import FSDate
 from models.individual import Individual
 from models.partnership import Partnership
 import os
+from collections import deque
 
 
 class FamilyScript:
@@ -138,3 +139,56 @@ class FamilyScript:
                 elif individual.given_names == given_names:
                     potentials.append(individual)
             return potentials
+
+    def calculate_distance(self, individual_1: Individual | str, individual_2: Individual | str) -> int:
+        """
+        Returns the 'distance' between two individuals in the family tree, where the distance 
+        refers to the number of connections/steps between them. Full siblings are considered 
+        to have no distance, meaning traversing full siblings adds 0 to the distance.
+        
+        Distance:
+        - 0 for the same individual
+        - 1 for parent-child or half-sibling connections
+        - 2 for grandparent, grandchild, etc.
+        - Special: Full siblings don't increase the distance (distance remains the same).
+
+        """
+        start_individual = individual_1 if isinstance(individual_1, Individual) else self.get_individual(individual_1)
+        target_individual = individual_2 if isinstance(individual_2, Individual) else self.get_individual(individual_2)
+        
+        if start_individual == target_individual:
+            return 0  # Same individual
+
+        # Use BFS to find the shortest path
+        visited = set()  # Track visited individuals
+        queue = deque([(start_individual, 0)])  # (current individual, current distance)
+
+        while queue:
+            current_individual, current_distance = queue.popleft()
+
+            # Mark the current individual as visited
+            visited.add(current_individual.id)
+
+            # Check if we've reached the target individual
+            if current_individual == target_individual:
+                return current_distance
+
+            # Get parents, children, and siblings (full and half)
+            parents = self.get_parents(current_individual)
+            children = self.get_all_children(current_individual)
+            siblings = self.get_siblings(current_individual, include_half_siblings=True)
+
+            full_siblings, maternal_half_siblings, paternal_half_siblings = siblings if isinstance(siblings, list) else (siblings, [], [])
+
+            # Traverse parents, children, and half-siblings (add +1 distance)
+            for relative in parents + children + maternal_half_siblings + paternal_half_siblings:
+                if relative and relative.id not in visited:
+                    queue.append((relative, current_distance + 1))
+
+            # Traverse full siblings (distance remains the same, so no +1)
+            for sibling in full_siblings:
+                if sibling.id not in visited:
+                    queue.append((sibling, current_distance))  # Distance remains the same
+
+        # If no connection is found, return a large number (infinite distance)
+        return float('inf')
